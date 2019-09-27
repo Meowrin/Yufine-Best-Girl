@@ -11,16 +11,16 @@
 Are you tired of spending weeks 100%-ing normal labs? Are you tired of optimizing 40-44 morale Hell Raid teams that trudge through both bosses and soon 5 whole fricking bosses, all the while optimizing for each? That's insane, I'm insane ![MutsukiCurse](https://cdn.discordapp.com/attachments/559988477991583747/627001616943546368/MutsukiYou.png) for spending hours each weeks to not do that but run **"best girl Yufine"** <sub> ~~- Dimbreath~~ </sub>  instead. I'm also stupid for writing this guide. And tbh, you are right, SG will prolly "bug fix" this like how they fucked over Sez as soon as 5 bosses Hell Raid hit, but until they do. **THIS IS A FEATURE**, I repeat, 
 #### **_This is not a bug, an exploit or anything that game breaking, this is a perfectly intended game interaction by the devs. /s_** 
 
-<br/>
+<sub> Regretting skipping that Yufine banner now? </sub>
 
 > P.S: Oh btw, this is not a PvP guide, although you can run basically the same shit in PvP and prolly will feed all the fights but don't let me stop you (well cause there's no -90% speed on your raid boss to counter enough times to extend buffs and Basars have like 125% Eff even while on 250 speed). 
 
-**Legacy:** here too for convenience (pretty common terms but you'll never know)
+**Legacy:** here for convenience (pretty common terms but you'll never know)
 - ER = Effect Resistance (the stat that let you resist more than just RNG 15%)
 - Eff = Effectiveness (the stat let your debuffs not get resisted more than 15% of the time)
 - EE = Exclusive Equipment (A type of unit gears equippable only when 5 stars awakened on a small hexagon next to the artifact slot which is only obtainable through side story or Hall of Trials exchange shop)
 - ML = Moonlight (Referring to the Moonlight Shade version of a character, e.g: Apocalypse Ravi is the Moonlight Shade version of Fire Ravi hence ML Ravi or ARavi, Crescent Moon Rin is ML Rin)
-## Important note on stat stacking:** passives, buffs, debuffs, artifacts and morale impacts are all additive to each other and are added after base character stat and gears. Therefore Sigurd Scythe is a direct damage increase that negates the effect of morale when used with ML Achates. 
+## Important note on stat stacking: passives, buffs, debuffs, artifacts and morale impacts are all additive to each other and are added after base character stat and gears. Therefore Sigurd Scythe is a direct damage increase that negates the effect of morale when used with ML Achates. 
 ---
 
 # Essential Components
@@ -56,7 +56,7 @@ Other desirable stats on your Raid boss include:
 ### ![](https://assets.epicsevendb.com/hero/ruele-of-light/small.png) **[Ruele of Light](https://epicsevendb.com/hero/ruele-of-light)**
 ### ![](https://assets.epicsevendb.com/hero/shooting-star-achates/small.png) **[Shooting Star Achates](https://epicsevendb.com/hero/shooting-star-achates): Has ER Imprints**
 ### ![](https://assets.epicsevendb.com/hero/crimson-armin/small.png) **[Crimson Armin](https://epicsevendb.com/hero/crimson-armin): Has ER Imprints**
-### ![](https://assets.epicsevendb.com/hero/blaze-dingo/small.png) **[Blaze Dingo](https://epicsevendb.com/hero/blaze-dingo): Has attack buffs**
+### ![](https://assets.epicsevendb.com/hero/blaze-dingo/small.png) **[Blaze Dingo](https://epicsevendb.com/hero/blaze-dingo): Has attack buff**
 ### ![](https://assets.epicsevendb.com/hero/achates/small.png) **[Achates](https://epicsevendb.com/hero/achates)**
 ### ![](https://assets.epicsevendb.com/hero/crescent-moon-rin/small.png) **[Crescent Moon Rin](https://epicsevendb.com/hero/crescent-moon-rin): Steal buffs but don't have innate Invincibility/Immortality**
 #### **Important Note**: Imprints last even if the unit granting it dies so SSAcha and CArmin is very nice to lessen the gear requirement. Also ML Rin don't have innate Invincibility/Immortality buff but rather depends on the enemies having them for her to steal which is really rare and situational so she might not even be here but I would be on a stake if I don't put her here.
