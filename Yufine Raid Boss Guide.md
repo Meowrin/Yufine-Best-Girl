@@ -45,7 +45,7 @@ Other desirable stats on your Raid boss include: (but you know this already)
 - ![](https://assets.epicsevendb.com/artifact/sigurd-scythe/icon.png) **Sigurd Scythe:** This only works with SSAcha's immortality and its attack buff is addictive to morale so you would have 35% attack instead of 10% at -50 morale
 - ![](https://assets.epicsevendb.com/artifact/els-fist/icon.png) **El's Fist:** Ok, this mostly doesn't work cause speed buff from this is addictive to morale so you would be having 60% speed and not 10% at -50 morale, but you can have counter buff somewhere and it still can work, maybe, still steer clear of it is my opinion
 
-## **An Invincible/Immortal buffer:** 
+## **An Invincible/Immortal buffer** 
 #### Your choices on this is limited and they all do the same thing so just pick one that you have
 
 <br/>
@@ -75,4 +75,4 @@ Ok now that your team has 2 units: Yufine and your buffer slave, what more do yo
 - ![](https://assets.epicsevendb.com/buff/stic_att_up2.png) **Greater attack buff** granted by Yuna through her EE at a 30% chance
 - ![](https://assets.epicsevendb.com/buff/stic_att_up.png) **Attack buff** is one of the most accessible buff in the game, finding one shouldn't be that hard
 
-# TL;DR: Yufine with A LOT of ER (170% is safe) with a [immunity/immortality buffer](#An Invincible/Immortal buffer:) and complentary buffers [(Ice Dominiel is bae)](#Reflect:)
+# TL;DR: Yufine with A LOT of ER (170% is safe) with a [immunity/immortality buffer](Yufine%20Raid%20Boss%20Guide.md##An%20Invincible/Immortal%20buffer) and complentary buffers [(Ice Dominiel is bae)](#Reflect:)
