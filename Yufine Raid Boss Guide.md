@@ -1,23 +1,21 @@
 # Yufine Raid Boss Guide
 
 ### Table of Contents
-- Intro
-- Essentials Components
-- Complementary Components
+- ![Intro](Yufine%20Raid%20Boss%20Guide.md#Intro)
+- ![Essentials Components](Yufine%20Raid%20Boss%20Guide.md#Essentials%20Components)
+- ![Complementary Components](Yufine%20Raid%20Boss%20Guide.md#Complementary%20Components)
 
-<br/><br/>
 ---
-<br/><br/>
 
 # Intro
-Are you tired of spending weeks 100%-ing normal labs? Are you tired of optimizing 40-44 morale Hell Raid teams that trudge through both bosses and soon 5 whole fricking bosses, all the while optimizing for each? That's insane, I'm insane ![MutsukiCurse](https://cdn.discordapp.com/attachments/559988477991583747/627001616943546368/MutsukiYou.png) for spending hours each weeks to do not do that and run **"best girl Yufine"** <sup> - Dimbreath </sup> instead. I'm also stupid for writing this guide. And tbh, you are right, SG will prolly "bug fix" this like how they fucked over Sez as soon as 5 bosses Hell Raid hit, but until they do. **THIS IS A FEATURE**, I repeat, 
+Are you tired of spending weeks 100%-ing normal labs? Are you tired of optimizing 40-44 morale Hell Raid teams that trudge through both bosses and soon 5 whole fricking bosses, all the while optimizing for each? That's insane, I'm insane ![MutsukiCurse](https://cdn.discordapp.com/attachments/559988477991583747/627001616943546368/MutsukiYou.png) for spending hours each weeks to not do that but run **"best girl Yufine"** <sub> ~~- Dimbreath~~ </sub>  instead. I'm also stupid for writing this guide. And tbh, you are right, SG will prolly "bug fix" this like how they fucked over Sez as soon as 5 bosses Hell Raid hit, but until they do. **THIS IS A FEATURE**, I repeat, 
 #### **_This is not a bug, an exploit or anything that game breaking, this is a perfectly intended game interaction by the devs. /s_** 
 
-<br/><br/>
+<br/>
 
-> P.S: Oh btw, this is not a PvP guide, although you can run basically the same shit in PvP and prolly will win/feed all the fights but don't count on it (well cause there's no -90% speed on your raid boss to counter enough times to extend buffs and Basars have like 125% Eff even while on 250 speed). 
+> P.S: Oh btw, this is not a PvP guide, although you can run basically the same shit in PvP and prolly will feed all the fights but don't let me stop you (well cause there's no -90% speed on your raid boss to counter enough times to extend buffs and Basars have like 125% Eff even while on 250 speed). 
 
-Legacy here too for convenience (pretty common terms but you'll never know)
+**Legacy:** here too for convenience (pretty common terms but you'll never know)
 - ER = Effect Resistance (the stat that let you resist more than just RNG 15%)
 - Eff = Effectiveness (the stat let your debuffs not get resisted more than 15% of the time)
 - EE = Exclusive Equipment (A type of unit gears equippable only when 5 stars awakened on a small hexagon next to the artifact slot which is only obtainable through side story or Hall of Trials exchange shop)
@@ -50,7 +48,7 @@ Other desirable stats on your Raid boss include: (but you know this already)
 ## **An Invincible/Immortal buffer:** 
 #### Your choices on this is limited and they all do the same thing so just pick one that you have
 
-<br/><br/>
+<br/>
 
 ### ![](https://assets.epicsevendb.com/hero/ruele-of-light/small.png) **[Ruele of Light](https://epicsevendb.com/hero/ruele-of-light)**
 ### ![](https://assets.epicsevendb.com/hero/shooting-star-achates/small.png) **[Shooting Star Achates](https://epicsevendb.com/hero/shooting-star-achates): Has ER Imprints**
@@ -60,9 +58,7 @@ Other desirable stats on your Raid boss include: (but you know this already)
 ### ![](https://assets.epicsevendb.com/hero/crescent-moon-rin/small.png) **[Crescent Moon Rin](https://epicsevendb.com/hero/crescent-moon-rin): Steal buffs but don't have innate Invincibility/Immortality**
 #### **Important Note**: Imprints last even if the unit granting it dies so SSAcha and CArmin is very nice to lessen the gear requirement. Also ML Rin don't have innate Invincibility/Immortality buff but rather depends on the enemies having them for her to steal which is really rare and situational so she might not even be here but I would be on a stake if I don't put her here.
 
-<br/><br/>
 ---
-<br/><br/>
 
 # Complementary Components:
 Ok now that your team has 2 units: Yufine and your buffer slave, what more do you want? Well more buffs always help which I will seperate by order of usefulness as well as more imprints (except speed). Sadly all the other ER imprints are non-buffers so body drag time (I guess I should put a throwaway note listing them here: ![Fallen Cecilia](https://epicsevendb.com/hero/fallen-cecilia), ![Maid Chloe](https://epicsevendb.com/hero/maid-chloe), ![Fighter Maya](https://epicsevendb.com/hero/fighter-maya), ![Angelica](https://epicsevendb.com/hero/angelica), ![Crozet](https://epicsevendb.com/hero/crozet)
@@ -72,11 +68,11 @@ Ok now that your team has 2 units: Yufine and your buffer slave, what more do yo
 ### ![](https://assets.epicsevendb.com/buff/stic_counter.png)Counter: ML Rin exclusive steal
 > This is such a situational buff it might as well not be on here, basically you search out a counterattack mini-boss, proc it and let ML Rin steal the buff for your raid boss. Seems straight forward enough if it wasn't gated to that 2nd mini-boss fight on the Hell Kark side and in normal raid.
 ### ![](https://epic7x.com/wp-content/uploads/2019/03/guardians-blessing.png)Guardians Blessing: Colloquially known as Arky's buff
-> Well this one is straight forward enough no? Practically a free 20% attack and crit chance buff, only downside is using the literal best dps Guardian available: **Fluffly Arky**
+> Well this one is straight forward enough no? Practically a free 20% attack and crit chance buff, only downside is spending 30 soul (charges) using the literal best dps Guardian available: **Fluffly Arky**
 ### List of Offensive buffs: ![](https://assets.epicsevendb.com/buff/stic_cridmg_up.png) ![](https://assets.epicsevendb.com/buff/stic_cri_up.png) ![](https://assets.epicsevendb.com/buff/stic_att_up.png) ![](https://assets.epicsevendb.com/buff/stic_att_up2.png)
 - ![](https://assets.epicsevendb.com/buff/stic_cridmg_up.png) **Crit damage buff** is only granted by ML Rin to herself so it's pretty irrelevant unless you can find a mob that steals that buff from you for you to steal back or a mob that has it (I can't remember any that has that buff tho, but if you do inform me) ~~Included for consistency sake~~
 - ![](https://assets.epicsevendb.com/buff/stic_cri_up.png) **Crit rate buff** is granted by a couple of people: ![Furious](https://epicsevendb.com/hero/furious), ![Tywin](https://epicsevendb.com/hero/tywin), ![Challenger Dominiel](https://epicsevendb.com/hero/challenger-dominiel), and ofc the buff stealer ![ML Rin](https://epicsevendb.com/hero/crescent-moon-rin) 
 - ![](https://assets.epicsevendb.com/buff/stic_att_up2.png) **Greater attack buff** granted by Yuna through her EE at a 30% chance
 - ![](https://assets.epicsevendb.com/buff/stic_att_up.png) **Attack buff** is one of the most accessible buff in the game, finding one shouldn't be that hard
 
-#TL;DR: Yufine with A LOT of ER (170% is safe) with a [immunity/immortality buffer](#An Invincible/Immortal buffer:) and complentary buffers [(Ice Dominiel is bae)](#Reflect:)
+# TL;DR: Yufine with A LOT of ER (170% is safe) with a [immunity/immortality buffer](#An Invincible/Immortal buffer:) and complentary buffers [(Ice Dominiel is bae)](#Reflect:)
