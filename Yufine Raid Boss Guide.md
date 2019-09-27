@@ -20,7 +20,7 @@ Are you tired of spending weeks 100%-ing normal labs? Are you tired of optimizin
 - Eff = Effectiveness (the stat let your debuffs not get resisted more than 15% of the time)
 - EE = Exclusive Equipment (A type of unit gears equippable only when 5 stars awakened on a small hexagon next to the artifact slot which is only obtainable through side story or Hall of Trials exchange shop)
 - ML = Moonlight (Referring to the Moonlight Shade version of a character, e.g: Apocalypse Ravi is the Moonlight Shade version of Fire Ravi hence ML Ravi or ARavi, Crescent Moon Rin is ML Rin)
-
+## Important note on stat stacking:** passives, buffs, debuffs, artifacts and morale impacts are all additive to each other and are added after base character stat and gears. Therefore Sigurd Scythe is a direct damage increase that negates the effect of morale when used with ML Achates. 
 ---
 
 # Essential Components
@@ -29,7 +29,7 @@ Are you tired of spending weeks 100%-ing normal labs? Are you tired of optimizin
 
 #### Even best girl needs gears if you want her to be an actual raid boss, the requirement is actually quite simple:
  - **A Counter set farmed from her nuking B11 or poverty gears from secret shop** ~~unless you galaxy bren with ML Rin and steal a counter buff somewhere~~
- - **Her unique EE with the 1st skill of "30% chance on using Double Slash to extend all buffs duration by 1 turn" (The Eff roll is irrelevant most of the time so don't fuss over it rolling anything less than 16%)**
+ - **Her unique EE with the 1st skill of "35% chance on using Double Slash to extend all buffs duration by 1 turn" (The Eff roll is irrelevant most of the time so don't fuss over it rolling anything less than 16%)**
  - **Either make sure she has enough ER to resist all debuffs or you are sure her buffs aren't getting dispelled (Yes, you can resist dispels like all other debuffs)**
 
 In the context of this exclusively PvE guide, we will not touch on PvP Eff. So how much ER does your Yufine needs, well it depends on the situation, _generally_, and very generally, PvE mobs will have the same Eff as their ER. A safe spot to aim for is 
@@ -38,7 +38,8 @@ In the context of this exclusively PvE guide, we will not touch on PvP Eff. So h
 - 125% for Normal Raid and other content
 > **TL;DR: enemy ER + 100% is your desired ER number after all imprints and gears + artifact**
 
-Other desirable stats on your Raid boss include: (but you know this already)
+Other desirable stats on your Raid boss include:
+- **LOW SPEED:** Like actually base speed, ideally you don't want to go above 140 speed generally and you want as low as possible to preserve your buffs and proc more counter to extend them
 - Attack
 - Crit (both chance and damage)
 
@@ -66,9 +67,9 @@ Other desirable stats on your Raid boss include: (but you know this already)
 Ok now that your team has 2 units: Yufine and your buffer slave, what more do you want? Well more buffs always help which I will seperate by order of usefulness as well as more imprints (except speed). Sadly all the other ER imprints are non-buffers so body drag time (I guess I should put a throwaway note listing them here: [Fallen Cecilia](https://epicsevendb.com/hero/fallen-cecilia), [Maid Chloe](https://epicsevendb.com/hero/maid-chloe), [Fighter Maya](https://epicsevendb.com/hero/fighter-maya), [Angelica](https://epicsevendb.com/hero/angelica), [Crozet](https://epicsevendb.com/hero/crozet))
 ### ![](https://assets.epicsevendb.com/buff/stic_reflect.png)Reflect: (a.k.a Dominiel is 2nd best girl, it's canon now)
 #### ![](https://assets.epicsevendb.com/hero/dominiel/small.png)[Dominiel](https://epicsevendb.com/hero/dominiel): Remember me?
-> This buff reflect back 30% of the damage you should have taken after defense calculation back to the attacker ignoring their defense all the while. Ok, let's be real, you aren't going to do consistent damage relying on counter with -90% attack so this buff granted by Ice Dominiel (not the Mola eating, crit buffing, oneshotting legend Dodomi but the forgotten Dominiel Nixied) is gonna be the most sure-fire way to get your runs not take 4-6 hours
+> This buff reflect back 30% of the damage your raid boss (should) have taken after defense calculation back to the attacker ignoring their defense all the while. Ok, let's be real, you aren't going to do consistent damage relying on counter so this buff granted by Ice Dominiel (not the Mola eating, crit buffing, oneshotting legend Dodomi but the forgotten Dominiel Nixied) is gonna be the most sure-fire way to get more damage.
 ### ![](https://assets.epicsevendb.com/buff/stic_counter.png)Counter: [ML Rin](https://epicsevendb.com/hero/crescent-moon-rin) exclusive steal
-> This buff makes the buffed target has 100% counter chance upon being hit. This is such a situational/rare buff it might as well not be on here, basically you search out a counterattack mini-boss, proc it and let [ML Rin](https://epicsevendb.com/hero/crescent-moon-rin) steal the buff for your raid boss. Seems straight forward enough if it wasn't gated to that 2nd mini-boss fight on the Hell Kark side and somewhere in normal raid.
+> This buff makes the buffed target has 100% counter chance upon being hit. It sounds so good, what's the catch? Well, you just have to search out a counterattack mini-boss, proc it and let [ML Rin](https://epicsevendb.com/hero/crescent-moon-rin) steals the buff for your raid boss. Seems straight forward enough if it wasn't gated to that 2nd mini-boss fight on the Hell Kark side and somewhere in normal raid.
 ### ![](https://epic7x.com/wp-content/uploads/2019/03/guardians-blessing.png)Guardians Blessing: Colloquially known as Arky's buff
 > Well this one is straight forward enough no? Practically a free 20% attack and crit chance buff, only downside is spending 30 soul (charges) using the literal best dps Guardian available: **Fluffly Arky**
 ### List of Offensive buffs: ![](https://assets.epicsevendb.com/buff/stic_cridmg_up.png) ![](https://assets.epicsevendb.com/buff/stic_cri_up.png) ![](https://assets.epicsevendb.com/buff/stic_att_up.png) ![](https://assets.epicsevendb.com/buff/stic_att_up2.png)
@@ -77,4 +78,4 @@ Ok now that your team has 2 units: Yufine and your buffer slave, what more do yo
 - ![](https://assets.epicsevendb.com/buff/stic_att_up2.png) **Greater attack buff** (which buff attack by 75% and overwrites normal Attack buff) granted by [Yuna](https://epicsevendb.com/hero/yuna) through her EE at a 30% chance
 - ![](https://assets.epicsevendb.com/buff/stic_att_up.png) **Attack buff** (which buff attack by 50%) is one of the most accessible buff in the game, finding one shouldn't be that hard
 
-# TL;DR: Yufine with A LOT of ER (170% is safe) with a [immunity/immortality buffer](Yufine%20Raid%20Boss%20Guide.md#an-invincibleimmortal-buffer) and complentary buffers [(Ice Dominiel is bae)](#Reflect:)
+# TL;DR: Yufine with A LOT of ER (170% is safe) with a [immunity/immortality buffer](Yufine%20Raid%20Boss%20Guide.md#an-invincibleimmortal-buffer) and complementary buffers [(Ice Dominiel is bae)](Yufine%20Raid%20Boss%20Guide.md#reflect-aka-dominiel-is-2nd-best-girl-its-canon-now)
