@@ -21,6 +21,8 @@ Are you tired of spending weeks 100%-ing normal labs? Are you tired of optimizin
 - EE = Exclusive Equipment (A type of unit gears equippable only when 5 stars awakened on a small hexagon next to the artifact slot which is only obtainable through side story or Hall of Trials exchange shop)
 - ML = Moonlight (Referring to the Moonlight Shade version of a character, e.g: Apocalypse Ravi is the Moonlight Shade version of Fire Ravi hence ML Ravi or ARavi, Crescent Moon Rin is ML Rin)
 
+---
+
 # Essential Components
 
 ## ![](https://assets.epicsevendb.com/hero/yufine/small.png) **[Best girl Yufine](https://epicsevendb.com/hero/yufine)** ~~_Obviously_~~
@@ -61,7 +63,7 @@ Other desirable stats on your Raid boss include: (but you know this already)
 ---
 
 # Complementary Components:
-Ok now that your team has 2 units: Yufine and your buffer slave, what more do you want? Well more buffs always help which I will seperate by order of usefulness as well as more imprints (except speed). Sadly all the other ER imprints are non-buffers so body drag time (I guess I should put a throwaway note listing them here: [Fallen Cecilia](https://epicsevendb.com/hero/fallen-cecilia), [Maid Chloe](https://epicsevendb.com/hero/maid-chloe), [Fighter Maya](https://epicsevendb.com/hero/fighter-maya), [Angelica](https://epicsevendb.com/hero/angelica), [Crozet](https://epicsevendb.com/hero/crozet)
+Ok now that your team has 2 units: Yufine and your buffer slave, what more do you want? Well more buffs always help which I will seperate by order of usefulness as well as more imprints (except speed). Sadly all the other ER imprints are non-buffers so body drag time (I guess I should put a throwaway note listing them here: [Fallen Cecilia](https://epicsevendb.com/hero/fallen-cecilia), [Maid Chloe](https://epicsevendb.com/hero/maid-chloe), [Fighter Maya](https://epicsevendb.com/hero/fighter-maya), [Angelica](https://epicsevendb.com/hero/angelica), [Crozet](https://epicsevendb.com/hero/crozet))
 ### ![](https://assets.epicsevendb.com/buff/stic_reflect.png)Reflect: (a.k.a Dominiel is 2nd best girl, it's canon now)
 #### ![](https://assets.epicsevendb.com/hero/dominiel/small.png)[Dominiel](https://epicsevendb.com/hero/dominiel): Remember me?
 > This buff reflect back 30% of the damage you should have taken after defense calculation back to the attacker ignoring their defense all the while. Ok, let's be real, you aren't going to do consistent damage relying on counter with -90% attack so this buff granted by Ice Dominiel (not the Mola eating, crit buffing, oneshotting legend Dodomi but the forgotten Dominiel Nixied) is gonna be the most sure-fire way to get your runs not take 4-6 hours
