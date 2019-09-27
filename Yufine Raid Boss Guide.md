@@ -75,4 +75,4 @@ Ok now that your team has 2 units: Yufine and your buffer slave, what more do yo
 - ![](https://assets.epicsevendb.com/buff/stic_att_up2.png) **Greater attack buff** granted by Yuna through her EE at a 30% chance
 - ![](https://assets.epicsevendb.com/buff/stic_att_up.png) **Attack buff** is one of the most accessible buff in the game, finding one shouldn't be that hard
 
-# TL;DR: Yufine with A LOT of ER (170% is safe) with a [immunity/immortality buffer](Yufine%20Raid%20Boss%20Guide.md##An%20Invincible/Immortal%20buffer) and complentary buffers [(Ice Dominiel is bae)](#Reflect:)
+# TL;DR: Yufine with A LOT of ER (170% is safe) with a [immunity/immortality buffer](Yufine%20Raid%20Boss%20Guide.md#An%20Invincible/Immortal%20buffer) and complentary buffers [(Ice Dominiel is bae)](#Reflect:)
