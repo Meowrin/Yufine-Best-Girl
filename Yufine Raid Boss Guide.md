@@ -1,9 +1,9 @@
 # Yufine Raid Boss Guide
 
 ### Table of Contents
-- ![Intro](Yufine%20Raid%20Boss%20Guide.md#intro)
-- ![Essentials Components](Yufine%20Raid%20Boss%20Guide.md#essential-components)
-- ![Complementary Components](Yufine%20Raid%20Boss%20Guide.md#complementary-components)
+- [Intro](Yufine%20Raid%20Boss%20Guide.md#intro)
+- [Essentials Components](Yufine%20Raid%20Boss%20Guide.md#essential-components)
+- [Complementary Components](Yufine%20Raid%20Boss%20Guide.md#complementary-components)
 
 ---
 
@@ -23,9 +23,9 @@ Are you tired of spending weeks 100%-ing normal labs? Are you tired of optimizin
 
 # Essential Components
 
-## ![](https://assets.epicsevendb.com/hero/yufine/small.png)**Best girl Yufine** ~~_Obviously_~~
+## ![](https://assets.epicsevendb.com/hero/yufine/small.png) **[Best girl Yufine](https://epicsevendb.com/hero/yufine)** ~~_Obviously_~~
 
-#### Even best girl needs gear if you want her to be an actual raid boss, the requirement is actually quite simple:
+#### Even best girl needs gears if you want her to be an actual raid boss, the requirement is actually quite simple:
  - **A Counter set farmed from her nuking B11 or poverty gears from secret shop** ~~unless you galaxy bren with ML Rin and steal a counter buff somewhere~~
  - **Her unique EE with the 1st skill of "30% chance on using Double Slash to extend all buffs duration by 1 turn" (The Eff roll is irrelevant most of the time so don't fuss over it rolling anything less than 16%)**
  - **Either make sure she has enough ER to resist all debuffs or you are sure her buffs aren't getting dispelled (Yes, you can resist dispels like all other debuffs)**
@@ -41,9 +41,9 @@ Other desirable stats on your Raid boss include: (but you know this already)
 - Crit (both chance and damage)
 
 #### Artifacts: Now this is where it gets contentious but it mostly comes down to your gears and teams:
-- ![](https://assets.epicsevendb.com/artifact/strak-gauntlet/icon.png) **Strak's Gauntlet:** well 30-60% ER cuts down your gear requirement greatly so people like this (Doesn't work as well with SSAcha cause Immortality)
-- ![](https://assets.epicsevendb.com/artifact/sigurd-scythe/icon.png) **Sigurd Scythe:** This only works with SSAcha's immortality and its attack buff is addictive to morale so you would have 35% attack instead of 10% at -50 morale
-- ![](https://assets.epicsevendb.com/artifact/els-fist/icon.png) **El's Fist:** Ok, this mostly doesn't work cause speed buff from this is addictive to morale so you would be having 60% speed and not 10% at -50 morale, but you can have counter buff somewhere and it still can work, maybe, still steer clear of it is my opinion
+- ![](https://assets.epicsevendb.com/artifact/strak-gauntlet/icon.png) **[Strak's Gauntlet](https://epicsevendb.com/artifact/els-fist):** well 30-60% ER cuts down your gear requirement greatly so people like this (Doesn't work as well with SSAcha cause Immortality)
+- ![](https://assets.epicsevendb.com/artifact/sigurd-scythe/icon.png) **[Sigurd Scythe](https://epicsevendb.com/artifact/sigurd-scythe):** This only works with SSAcha's immortality and its attack buff is addictive to morale so you would have 35% attack instead of 10% at -50 morale
+- ![](https://assets.epicsevendb.com/artifact/els-fist/icon.png) **[El's Fist](https://epicsevendb.com/artifact/els-fist):** Ok, this mostly doesn't work cause speed buff from this is addictive to morale so you would be having 60% speed and not 10% at -50 morale, but you can have counter buff somewhere and it still can work, maybe, still steer clear of it is my opinion
 
 ## **An Invincible/Immortal buffer** 
 #### Your choices on this is limited and they all do the same thing so just pick one that you have
@@ -61,18 +61,18 @@ Other desirable stats on your Raid boss include: (but you know this already)
 ---
 
 # Complementary Components:
-Ok now that your team has 2 units: Yufine and your buffer slave, what more do you want? Well more buffs always help which I will seperate by order of usefulness as well as more imprints (except speed). Sadly all the other ER imprints are non-buffers so body drag time (I guess I should put a throwaway note listing them here: ![Fallen Cecilia](https://epicsevendb.com/hero/fallen-cecilia), ![Maid Chloe](https://epicsevendb.com/hero/maid-chloe), ![Fighter Maya](https://epicsevendb.com/hero/fighter-maya), ![Angelica](https://epicsevendb.com/hero/angelica), ![Crozet](https://epicsevendb.com/hero/crozet)
+Ok now that your team has 2 units: Yufine and your buffer slave, what more do you want? Well more buffs always help which I will seperate by order of usefulness as well as more imprints (except speed). Sadly all the other ER imprints are non-buffers so body drag time (I guess I should put a throwaway note listing them here: [Fallen Cecilia](https://epicsevendb.com/hero/fallen-cecilia), [Maid Chloe](https://epicsevendb.com/hero/maid-chloe), [Fighter Maya](https://epicsevendb.com/hero/fighter-maya), [Angelica](https://epicsevendb.com/hero/angelica), [Crozet](https://epicsevendb.com/hero/crozet)
 ### ![](https://assets.epicsevendb.com/buff/stic_reflect.png)Reflect: (a.k.a Dominiel is 2nd best girl, it's canon now)
-#### ![](https://assets.epicsevendb.com/hero/dominiel/small.png)![Dominiel](https://epicsevendb.com/hero/dominiel): Remember me?
-> Ok, let's be real, you ain't going to do consistent damage relying on counter with -90% attack so this buff granted by Ice Dominiel (not the Mola eating, crit buffing, oneshotting legend Dodomi but the forgotten Dominiel Nixied) is gonna be the most sure-fire way to get your runs not take 4-6 hours
-### ![](https://assets.epicsevendb.com/buff/stic_counter.png)Counter: ML Rin exclusive steal
-> This is such a situational buff it might as well not be on here, basically you search out a counterattack mini-boss, proc it and let ML Rin steal the buff for your raid boss. Seems straight forward enough if it wasn't gated to that 2nd mini-boss fight on the Hell Kark side and in normal raid.
+#### ![](https://assets.epicsevendb.com/hero/dominiel/small.png)[Dominiel](https://epicsevendb.com/hero/dominiel): Remember me?
+> This buff reflect back 30% of the damage you should have taken after defense calculation back to the attacker ignoring their defense all the while. Ok, let's be real, you aren't going to do consistent damage relying on counter with -90% attack so this buff granted by Ice Dominiel (not the Mola eating, crit buffing, oneshotting legend Dodomi but the forgotten Dominiel Nixied) is gonna be the most sure-fire way to get your runs not take 4-6 hours
+### ![](https://assets.epicsevendb.com/buff/stic_counter.png)Counter: [ML Rin](https://epicsevendb.com/hero/crescent-moon-rin) exclusive steal
+> This buff makes the buffed target has 100% counter chance upon being hit. This is such a situational/rare buff it might as well not be on here, basically you search out a counterattack mini-boss, proc it and let [ML Rin](https://epicsevendb.com/hero/crescent-moon-rin) steal the buff for your raid boss. Seems straight forward enough if it wasn't gated to that 2nd mini-boss fight on the Hell Kark side and somewhere in normal raid.
 ### ![](https://epic7x.com/wp-content/uploads/2019/03/guardians-blessing.png)Guardians Blessing: Colloquially known as Arky's buff
 > Well this one is straight forward enough no? Practically a free 20% attack and crit chance buff, only downside is spending 30 soul (charges) using the literal best dps Guardian available: **Fluffly Arky**
 ### List of Offensive buffs: ![](https://assets.epicsevendb.com/buff/stic_cridmg_up.png) ![](https://assets.epicsevendb.com/buff/stic_cri_up.png) ![](https://assets.epicsevendb.com/buff/stic_att_up.png) ![](https://assets.epicsevendb.com/buff/stic_att_up2.png)
-- ![](https://assets.epicsevendb.com/buff/stic_cridmg_up.png) **Crit damage buff** is only granted by ML Rin to herself so it's pretty irrelevant unless you can find a mob that steals that buff from you for you to steal back or a mob that has it (I can't remember any that has that buff tho, but if you do inform me) ~~Included for consistency sake~~
-- ![](https://assets.epicsevendb.com/buff/stic_cri_up.png) **Crit rate buff** is granted by a couple of people: ![Furious](https://epicsevendb.com/hero/furious), ![Tywin](https://epicsevendb.com/hero/tywin), ![Challenger Dominiel](https://epicsevendb.com/hero/challenger-dominiel), and ofc the buff stealer ![ML Rin](https://epicsevendb.com/hero/crescent-moon-rin) 
-- ![](https://assets.epicsevendb.com/buff/stic_att_up2.png) **Greater attack buff** granted by Yuna through her EE at a 30% chance
-- ![](https://assets.epicsevendb.com/buff/stic_att_up.png) **Attack buff** is one of the most accessible buff in the game, finding one shouldn't be that hard
+- ![](https://assets.epicsevendb.com/buff/stic_cridmg_up.png) **Crit damage buff** which buff crit damage by a flat 50% is only granted by [ML Rin](https://epicsevendb.com/hero/crescent-moon-rin) to herself so it's pretty irrelevant unless you can find a mob that steals that buff from you for you to steal back or a mob that has it (I can't remember any that has that buff tho, but if you do inform me) ~~Included for consistency sake~~
+- ![](https://assets.epicsevendb.com/buff/stic_cri_up.png) **Crit rate buff** ( which buff crit chance by a flat 50%) is granted by a couple of people: [Furious](https://epicsevendb.com/hero/furious), [Tywin](https://epicsevendb.com/hero/tywin), [Challenger Dominiel](https://epicsevendb.com/hero/challenger-dominiel), and ofc the buff stealer [ML Rin](https://epicsevendb.com/hero/crescent-moon-rin) 
+- ![](https://assets.epicsevendb.com/buff/stic_att_up2.png) **Greater attack buff** (which buff attack by 75% and overwrites normal Attack buff) granted by [Yuna](https://epicsevendb.com/hero/yuna) through her EE at a 30% chance
+- ![](https://assets.epicsevendb.com/buff/stic_att_up.png) **Attack buff** (which buff attack by 50%) is one of the most accessible buff in the game, finding one shouldn't be that hard
 
 # TL;DR: Yufine with A LOT of ER (170% is safe) with a [immunity/immortality buffer](Yufine%20Raid%20Boss%20Guide.md#an-invincibleimmortal-buffer) and complentary buffers [(Ice Dominiel is bae)](#Reflect:)
