@@ -71,7 +71,7 @@ Ok now that your team has 2 units: Yufine and your buffer slave, what more do yo
 > This buff reflect back 30% of the damage your raid boss (should) have taken after defense calculation back to the attacker ignoring their defense all the while. Ok, let's be real, you aren't going to do consistent damage relying on counter so this buff granted by Ice Dominiel (not the Mola eating, crit buffing, oneshotting legend Dodomi but the forgotten Dominiel Nixied) is gonna be the most sure-fire way to get more damage.
 ### ![](https://assets.epicsevendb.com/buff/stic_counter.png)Counter: [ML Rin](https://epicsevendb.com/hero/crescent-moon-rin) exclusive steal
 > This buff makes the buffed target has 100% counter chance upon being hit. It sounds so good, what's the catch? Well, you just have to search out a counterattack mini-boss, proc it and let [ML Rin](https://epicsevendb.com/hero/crescent-moon-rin) steals the buff for your raid boss. Seems straight forward enough if it wasn't gated to that 2nd mini-boss fight on the Hell Kark side and somewhere in normal raid.
-### ![](https://epic7x.com/wp-content/uploads/2019/03/guardians-blessing.png)Guardians Blessing: Colloquially known as Arky's buff
+### ![](https://epic7x.com/wp-content/uploads/2019/03/guardians-blessing.png)Guardians Blessing: Colloquially known as Arky's buff (Essential in all comps)
 > Well this one is straight forward enough no? Practically a free 20% attack and crit chance buff, only downside is spending 30 soul (charges) using the literal best dps Guardian available: **Fluffly Arky**
 ### List of Offensive buffs: ![](https://assets.epicsevendb.com/buff/stic_cridmg_up.png) ![](https://assets.epicsevendb.com/buff/stic_cri_up.png) ![](https://assets.epicsevendb.com/buff/stic_att_up.png) ![](https://assets.epicsevendb.com/buff/stic_att_up2.png)
 - ![](https://assets.epicsevendb.com/buff/stic_cridmg_up.png) **Crit damage buff** (which buff crit damage by a flat 50%) is only granted by [ML Rin](https://epicsevendb.com/hero/crescent-moon-rin) to herself so it's pretty irrelevant unless you can find a mob that steals that buff from you for you to steal back or a mob that has it (I can't remember any that has that buff tho, but if you do inform me) ~~Included for consistency sake~~
@@ -86,42 +86,57 @@ So far I have theorycrafted/field tested 3 comps that I'm sure that works which 
 - Basic, little to no gear requirement: reflect comp
 - High end-gear requirement with proper understanding of the map characteristics: damage counter comps
 - Galaxy bren ML Rin comp
+
 <br/>
+
 ### Reflect Comp:
 #### Pros:
-> Consistent
-> Low gear investment and easy to execute
-> Work wonderfully in Raids but not in normal Labs
+> - Consistent  
+> - Low gear investment and easy to execute  
+> - Work wonderfully in Raids but not in normal Labs  
 #### Cons:
-> RNG only in the 1st part if your Invul buffer is 1 turn and you need to extend it
-> Easiest to get stuck in an infinite loop with non-damage-stacking life steal/shielding mini-bosses
-> Slowest of them all
+> - RNG only in the 1st part if your Invul buffer is 1 turn and you need to extend it  
+> - Easiest to get stuck in an infinite loop with non-damage-stacking life steal/shielding mini-bosses  
+> - Slowest of them all  
+
 
 Well as the name suggest, you just need the bare basic here, 150% ER or at most 175% ER, not that hard if you are running ER ring and Strak, the core of this comp, outside of Yufine obviously, is as you might expect, Dominiel. She's the only reflect buffer in the game and with it, your damage is guaranteed in both normal raid and Hell Raid. Once it's up and running, you just need to tab back in every 15-20 minutes to move. You can also use this comp for dog walking as well since you only using 3 units: Yufine, Dominiel and your Primary buffer. It's consistent and most useful in Raids since there's no life stealing mini-bosses there
+
 <br/>
+
 ### Damage Counter Comp:
 #### Pros:
-> Fast run
-> Works great for all type of Labs and Raids
-> Flexible team comp (Can dog walk)
-> Can kill life steal/shield mini-boss road block
+> - Fast run  
+> - Works great for all type of Labs and Raids  
+> - Flexible team comp (Can dog walk)  
+> - Can kill life steal/shield mini-boss road block  
 ### Cons:
-> Required specific damage tuning to keep buffs up 
-> Higher gear requirement
-> **Need to remember to use Arky**
+> - Required specific damage tuning to keep buffs up  
+> - Higher gear requirement  
+> - **Need to remember to use Arky**  
+
+
 This is the cookie cutter, most commonly used comp to farm ancient coins/gold from normal labs. This is where SSAcha shines as the best Primary buffer with her synergy with Sigurd Scythe buffing 25% attack on Yufine. Best used buffers are Yuna (greater attack buff), Blaze Dingo (Invul + Attack), and Tywin (Attack + Crit chance). The core of this comp is buffing with **Arky buff**, Attack buff and with SSAcha, Sigurd Scythe to counteract the morale debuff giving your Yufine her damage back. the math is as followed:
+
 > 20% (Arky) + 50/75% (Attack buff) + 25% (Sigurd) - 90% (morale) = -20% to +20% attack debuff/buff
+
+
 There's no ideal attack % buff, sometimes you might want more, sometimes you might want less, you need to fine tune Yufine damage so she don't kill mobs too fast else the buffs might elapsed on an unlucky no counter/extension streak. 
 <br/>
+
 ### ML Rin Comp:
+
 #### Pros:
-> Sanic Speed Run even at -50 morale
-> Super consistent and will never fail (unless you fail 35% proc 10 times in a row), can solo 4/5 bosses in normal raids and do everything in Hell raid available
+> - Sanic Speed Run even at -50 morale  
+> - Super consistent and will never fail (unless you fail 35% proc 10 times in a row), can solo 4/5 bosses in normal raids and do everything in Hell raid available  
+
 #### Cons:
-> Specific unit required: ML Rin (an ML nat4 that most people benched)
-> Specific lab/raid pathing and can't be executed if the condition is not met (RNG Counter mini-boss in lab is RNG)
-> **Need to remember to use Arky**
-> Yufine's stat also need to be mixed and matched to make sure she can attack enough times to extend the buffs (albeit a bit irrelevant unless you are extrememly unlucky to miss 35% 10 times in a row). 
+> - Specific unit required: ML Rin (an ML nat4 that most people benched)  
+> - Specific lab/raid pathing and can't be executed if the condition is not met (RNG Counter mini-boss in lab is RNG)  
+> - **Need to remember to use Arky**  
+> - Yufine's stat also need to be mixed and matched to make sure she can attack enough times to extend the buffs (albeit a bit irrelevant unless you are extrememly unlucky to miss 35% 10 times in a row).  
+
+
 This is the hardest comp to execute but it's also the fastest while being the most consistent. The star of the show here is the [counter buff](Yufine%20Raid%20Boss%20Guide.md#counter-ml-rin-exclusive-steal) which can only be obtained by stealing it from a counterattacking mini-boss (most notably 2nd miniboss on Hell Kark side) else everything is straight forward, stack as much damage buffs, etc etc. Since your Yufine is countering every attack, counter set is not even needed in this comp and you can safely go resist or attack/destruction/crit sets instead. **P.S: REMEMBER ARKY BUFF**
 
 ---
