@@ -20,7 +20,7 @@ Are you tired of spending weeks 100%-ing normal labs? Are you tired of optimizin
 - Eff = Effectiveness (the stat let your debuffs not get resisted more than 15% of the time)
 - EE = Exclusive Equipment (A type of unit gears equippable only when 5 stars awakened on a small hexagon next to the artifact slot which is only obtainable through side story or Hall of Trials exchange shop)
 - ML = Moonlight (Referring to the Moonlight Shade version of a character, e.g: Apocalypse Ravi is the Moonlight Shade version of Fire Ravi hence ML Ravi or ARavi, Crescent Moon Rin is ML Rin)
-## Important note on stat stacking: passives, buffs, debuffs, artifacts and morale impacts are all additive to each other and are added after base character stat and gears. Therefore Sigurd Scythe is a direct damage increase that negates the effect of morale when used with ML Achates. And speed buff from Yufine's S2 is your greatest enemy.
+## Important note on stat stacking: passives, buffs, debuffs, artifacts and morale impacts are all additive to each other and are added on top of the character sheet stats. Therefore Sigurd Scythe is a direct damage increase that negates the effect of morale when used with ML Achates. And speed buff from Yufine's S2 is your greatest enemy.
 ---
 
 # Essential Components
