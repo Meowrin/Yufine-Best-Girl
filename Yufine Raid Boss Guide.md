@@ -5,7 +5,9 @@
 - [Essentials Components](Yufine%20Raid%20Boss%20Guide.md#essential-components)
 - [Complementary Components](Yufine%20Raid%20Boss%20Guide.md#complementary-components)
 - [Building Specific Comps](Yufine%20Raid%20Boss%20Guide.md#building-specific-comps)
+
 ---
+<br/>
 
 # Intro
 Are you tired of spending weeks 100%-ing normal labs? Are you tired of optimizing 40-44 morale Hell Raid teams that trudge through both bosses and soon 5 whole fricking bosses, all the while optimizing for each? That's insane, I'm insane ![MutsukiCurse](https://cdn.discordapp.com/attachments/559988477991583747/627001616943546368/MutsukiYou.png) So for the insane people like me or Oklo [who spends 3 hours to farm 1k+ ancient coins in lab 3-2](https://cdn.discordapp.com/attachments/618249387822546975/627261082716602368/Screenshot_2019-09-27-14-33-43.png), I present to you a guide to raid boss **"best girl Yufine"** <sub> ~~- Dimbreath~~ </sub> . I'm also stupid for writing this guide. And tbh, you are right, SG will prolly "bug fix" this like how they fucked over Sez as soon as 5 bosses Hell Raid hit, but until they do. **THIS IS A FEATURE**, I repeat, 
@@ -21,7 +23,9 @@ Are you tired of spending weeks 100%-ing normal labs? Are you tired of optimizin
 - EE = Exclusive Equipment (A type of unit gears equippable only when 5 stars awakened on a small hexagon next to the artifact slot which is only obtainable through side story or Hall of Trials exchange shop)
 - ML = Moonlight (Referring to the Moonlight Shade version of a character, e.g: Apocalypse Ravi is the Moonlight Shade version of Fire Ravi hence ML Ravi or ARavi, Crescent Moon Rin is ML Rin)
 ## Important note on stat stacking: passives, buffs, debuffs, artifacts and morale impacts are all additive to each other and are added on top of the character sheet stats. Therefore Sigurd Scythe is a direct damage increase that negates the effect of morale when used with ML Achates. And speed buff from Yufine's S2 is your greatest enemy.
+
 ---
+<br/>
 
 # Essential Components
 
@@ -43,10 +47,13 @@ Other desirable stats on your Raid boss include:
 - Attack
 - Crit (both chance and damage) -> you can go 30% crit chance and have crit buff + arky buff to get 100% crit chance
 
-#### Artifacts: Now this is where it gets contentious but it mostly comes down to your gears and teams:
+#### Artifacts: This is straight forward enough, Strak a lot of the time to fill ER req, Uberius if you stack 100% crit chance and not running SSAcha, Sigurd only with SSAcha, no real reason to use anything else
 - ![](https://assets.epicsevendb.com/artifact/strak-gauntlet/icon.png) **[Strak's Gauntlet](https://epicsevendb.com/artifact/els-fist):** well 30-60% ER cuts down your gear requirement greatly so people like this (Doesn't work as well with SSAcha cause Immortality)
 - ![](https://assets.epicsevendb.com/artifact/sigurd-scythe/icon.png) **[Sigurd Scythe](https://epicsevendb.com/artifact/sigurd-scythe):** This only works with SSAcha's immortality and its attack buff is addictive to morale so you would have 35% attack instead of 10% at -50 morale
+- ![](https://assets.epicsevendb.com/artifact/uberiuss-tooth/icon.png) **[Uberius Tooth](https://epicsevendb.com/artifact/uberiuss-tooth):** Straight damage increase for people who have enough ER and just need more damage with their 70% crit chance buffs)
 - ![](https://assets.epicsevendb.com/artifact/els-fist/icon.png) **[El's Fist](https://epicsevendb.com/artifact/els-fist):** Ok, this mostly doesn't work cause speed buff from this is addictive to morale so you would be having 60% speed and not 10% at -50 morale, but you can have counter buff somewhere and it still can work, maybe, still steer clear of it is my opinion
+
+<br/>
 
 ## **Primary Buffer: An Invincible/Immortal buff** 
 #### Your choices on this is limited and they all do the same thing so just pick one that you have (SSAcha is the best imo)
@@ -63,6 +70,7 @@ Other desirable stats on your Raid boss include:
 #### **Important Note**: Imprints last even if the unit granting it dies so SSAcha and CArmin is very nice to lessen the gear requirement. Also ML Rin don't have innate Invincibility/Immortality buff but rather depends on the enemies having them for her to steal which is really rare and situational so she might not even be here but I would be on a stake if I don't put her here.
 
 ---
+<br/>
 
 # Complementary Components:
 Ok now that your team has 2 units: Yufine and your buffer slave, what more do you want? Well more buffs always help which I will seperate by order of usefulness as well as more imprints (except speed). Sadly all the other ER imprints are non-buffers so body drag time (I guess I should put a throwaway note listing them here: [Fallen Cecilia](https://epicsevendb.com/hero/fallen-cecilia), [Maid Chloe](https://epicsevendb.com/hero/maid-chloe), [Fighter Maya](https://epicsevendb.com/hero/fighter-maya), [Angelica](https://epicsevendb.com/hero/angelica), [Crozet](https://epicsevendb.com/hero/crozet))
@@ -80,6 +88,7 @@ Ok now that your team has 2 units: Yufine and your buffer slave, what more do yo
 - ![](https://assets.epicsevendb.com/buff/stic_att_up.png) **Attack buff** (which buff attack by 50%) is one of the most accessible buff in the game, finding one shouldn't be that hard
 
 ---
+<br/>
 
 # Building Specific Comps
 So far I have theorycrafted/field tested 3 comps that I'm sure that works which I'll detail below
@@ -100,7 +109,7 @@ So far I have theorycrafted/field tested 3 comps that I'm sure that works which 
 > - Slowest of them all  
 
 
-Well as the name suggest, you just need the bare basic here, 150% ER or at most 175% ER, not that hard if you are running ER ring and Strak, the core of this comp, outside of Yufine obviously, is as you might expect, Dominiel. She's the only reflect buffer in the game and with it, your damage is guaranteed in both normal raid and Hell Raid. Once it's up and running, you just need to tab back in every 15-20 minutes to move. You can also use this comp for dog walking as well since you only using 3 units: Yufine, Dominiel and your Primary buffer. It's consistent and most useful in Raids since there's no life stealing mini-bosses there
+Well as the name suggest, you just need the bare basic here, 150% ER or at most 175% ER, not that hard if you are running ER ring and Strak, the core of this comp, outside of Yufine obviously, is as you might expect, Ice Dominiel. She's the only reflect buffer in the game and with it, your damage is guaranteed in both normal raid and Hell Raid. Once it's up and running, you just need to tab back in every 15-20 minutes to move. You can also use this comp for dog walking as well since you only using 3 units: Yufine, Dominiel and your Primary buffer. It's consistent and most useful in Raids since there's no life stealing mini-bosses there.
 
 <br/>
 
@@ -122,6 +131,7 @@ This is the cookie cutter, most commonly used comp to farm ancient coins/gold fr
 
 
 There's no ideal attack % buff, sometimes you might want more, sometimes you might want less, you need to fine tune Yufine damage so she don't kill mobs too fast else the buffs might elapsed on an unlucky no counter/extension streak. 
+
 <br/>
 
 ### ML Rin Comp:
