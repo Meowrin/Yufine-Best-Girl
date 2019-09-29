@@ -159,4 +159,4 @@ This is the hardest comp to execute but it's also the fastest while being the mo
 
 ---
 
-# TL;DR: Yufine with A LOT of ER (170% is safe) with a [immunity/immortality buffer](Yufine%20Raid%20Boss%20Guide.md#primary-buffer-an-invincibleimmortal-buff) and complementary buffers [(Ice Dominiel is bae)](Yufine%20Raid%20Boss%20Guide.md#reflect-aka-dominiel-is-2nd-best-girl-its-canon-now)
+# TL;DR: Yufine with A LOT of ER (170% is safe) with a [invincibility/immortality buffer](Yufine%20Raid%20Boss%20Guide.md#primary-buffer-an-invincibleimmortal-buff) and complementary buffers [(Ice Dominiel is bae)](Yufine%20Raid%20Boss%20Guide.md#reflect-aka-dominiel-is-2nd-best-girl-its-canon-now)
