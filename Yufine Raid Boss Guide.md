@@ -23,6 +23,7 @@ Are you tired of spending weeks 100%-ing normal labs? Are you tired of optimizin
 - EE = Exclusive Equipment (A type of unit gears equippable only when 5 stars awakened on a small hexagon next to the artifact slot which is only obtainable through side story or Hall of Trials exchange shop)
 - ML = Moonlight (Referring to the Moonlight Shade version of a character, e.g: Apocalypse Ravi is the Moonlight Shade version of Fire Ravi hence ML Ravi or ARavi, Crescent Moon Rin is ML Rin)
 ## Important note on stat stacking: passives, buffs, debuffs, artifacts and morale impacts are all additive to each other and are added on top of the character sheet stats. Therefore Sigurd Scythe is a direct damage increase that negates the effect of morale when used with ML Achates. And speed buff from Yufine's S2 is your greatest enemy.
+### Note on one of the normal raid boss: Juleeve Council has an ignore ER dispel so Yufine will not be able to solo it.
 
 ---
 <br/>
