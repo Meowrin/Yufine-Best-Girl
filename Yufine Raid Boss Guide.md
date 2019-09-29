@@ -109,7 +109,7 @@ So far I have theorycrafted/field tested 3 comps that I'm sure that works which 
 > - Slowest of them all  
 
 
-Well as the name suggest, you just need the bare basic here, 150% ER or at most 175% ER, not that hard if you are running ER ring and Strak, the core of this comp, outside of Yufine obviously, is as you might expect, Ice Dominiel. She's the only reflect buffer in the game and with it, your damage is guaranteed in both normal raid and Hell Raid. Once it's up and running, you just need to tab back in every 15-20 minutes to move. You can also use this comp for dog walking as well since you only using 3 units: Yufine, Dominiel and your Primary buffer. It's consistent and most useful in Raids since there's no life stealing mini-bosses there.
+Well as the name suggest, you just need the bare basic here, 150% ER or at most 175% ER, not that hard if you are running ER ring and Strak, the core of this comp, outside of Yufine obviously, is as you might expect, Ice Dominiel. She's the only reflect buffer in the game and with it, your damage is guaranteed in both normal raid and Hell Raid. Once it's up and running, you just need to tab back in every 15-20 minutes to move. You can also use this comp for dog walking as well since you only using 3 units: Yufine, Dominiel and your Primary buffer. It's consistent and most useful in Raids since there's no life stealing mini-bosses there (That shielding mini-boss on the left side is gonna take a while but killable).
 
 <br/>
 
