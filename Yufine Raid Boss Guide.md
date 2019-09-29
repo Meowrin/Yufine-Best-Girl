@@ -48,9 +48,9 @@ Other desirable stats on your Raid boss include:
 - Crit (both chance and damage) -> you can go 30% crit chance and have crit buff + arky buff to get 100% crit chance
 
 #### Artifacts: This is straight forward enough, Strak a lot of the time to fill ER req, Uberius if you stack 100% crit chance and not running SSAcha, Sigurd only with SSAcha, no real reason to use anything else
-- ![](https://assets.epicsevendb.com/artifact/strak-gauntlet/icon.png) **[Strak's Gauntlet](https://epicsevendb.com/artifact/els-fist):** well 30-60% ER cuts down your gear requirement greatly so people like this (Doesn't work as well with SSAcha cause Immortality)
-- ![](https://assets.epicsevendb.com/artifact/sigurd-scythe/icon.png) **[Sigurd Scythe](https://epicsevendb.com/artifact/sigurd-scythe):** This only works with SSAcha's immortality and its attack buff is addictive to morale so you would have 35% attack instead of 10% at -50 morale
-- ![](https://assets.epicsevendb.com/artifact/uberiuss-tooth/icon.png) **[Uberius Tooth](https://epicsevendb.com/artifact/uberiuss-tooth):** Straight damage increase for people who have enough ER and just need more damage with their 70% crit chance buffs)
+- ![](https://assets.epicsevendb.com/artifact/strak-gauntlet/icon.png) **[Strak's Gauntlet](https://epicsevendb.com/artifact/els-fist):** well 30-60% ER cuts down your gear requirement greatly so people like this (Doesn't work as well with SSAcha cause Immortality).
+- ![](https://assets.epicsevendb.com/artifact/sigurd-scythe/icon.png) **[Sigurd Scythe](https://epicsevendb.com/artifact/sigurd-scythe):** This only works with SSAcha's immortality and its attack buff is addictive to morale so you would have 25% attack to counteract the -90% damage debuff of -50 morale.
+- ![](https://assets.epicsevendb.com/artifact/uberiuss-tooth/icon.png) **[Uberius Tooth](https://epicsevendb.com/artifact/uberiuss-tooth):** Straight damage increase for people who have enough ER and just want more damage (stacking crit buff and Arky for 70% crit chance increase is pretty nice)
 - ![](https://assets.epicsevendb.com/artifact/els-fist/icon.png) **[El's Fist](https://epicsevendb.com/artifact/els-fist):** Ok, this mostly doesn't work cause speed buff from this is addictive to morale so you would be having 60% speed and not 10% at -50 morale, but you can have counter buff somewhere and it still can work, maybe, still steer clear of it is my opinion
 
 <br/>
@@ -76,7 +76,7 @@ Other desirable stats on your Raid boss include:
 Ok now that your team has 2 units: Yufine and your buffer slave, what more do you want? Well more buffs always help which I will seperate by order of usefulness as well as more imprints (except speed). Sadly all the other ER imprints are non-buffers so body drag time (I guess I should put a throwaway note listing them here: [Fallen Cecilia](https://epicsevendb.com/hero/fallen-cecilia), [Maid Chloe](https://epicsevendb.com/hero/maid-chloe), [Fighter Maya](https://epicsevendb.com/hero/fighter-maya), [Angelica](https://epicsevendb.com/hero/angelica), [Crozet](https://epicsevendb.com/hero/crozet))
 ### ![](https://assets.epicsevendb.com/buff/stic_reflect.png)Reflect: (a.k.a Dominiel is 2nd best girl, it's canon now)
 #### ![](https://assets.epicsevendb.com/hero/dominiel/small.png)[Dominiel](https://epicsevendb.com/hero/dominiel): Remember me?
-> This buff reflect back 30% of the damage your raid boss (should) have taken after defense calculation back to the attacker ignoring their defense all the while. Ok, let's be real, you aren't going to do consistent damage relying on counter so this buff granted by Ice Dominiel (not the Mola eating, crit buffing, oneshotting legend Dodomi but the forgotten Dominiel Nixied) is gonna be the most sure-fire way to get more damage.
+> This buff reflect back 30% of the damage your raid boss (should) have taken after defense calculation back to the attacker ignoring their defense all the while. Ok, let's be real, you aren't going to do consistent damage relying on 20% counter so this buff granted by Ice Dominiel (not the Mola eating, crit buffing, oneshotting legend Dodomi but the forgotten Dominiel Nixied) is gonna be the most sure-fire way to get more damage. (It also allows her to solo Hell Kark even without using S2 or ML Rin)
 ### ![](https://assets.epicsevendb.com/buff/stic_counter.png)Counter: [ML Rin](https://epicsevendb.com/hero/crescent-moon-rin) exclusive steal
 > This buff makes the buffed target has 100% counter chance upon being hit. It sounds so good, what's the catch? Well, you just have to search out a counterattack mini-boss, proc it and let [ML Rin](https://epicsevendb.com/hero/crescent-moon-rin) steals the buff for your raid boss. Seems straight forward enough if it wasn't gated to that 2nd mini-boss fight on the Hell Kark side and somewhere in normal raid.
 ### ![](https://epic7x.com/wp-content/uploads/2019/03/guardians-blessing.png)Guardians Blessing: Colloquially known as Arky's buff (Essential in all comps)
@@ -84,8 +84,8 @@ Ok now that your team has 2 units: Yufine and your buffer slave, what more do yo
 ### List of Offensive buffs: ![](https://assets.epicsevendb.com/buff/stic_cridmg_up.png) ![](https://assets.epicsevendb.com/buff/stic_cri_up.png) ![](https://assets.epicsevendb.com/buff/stic_att_up.png) ![](https://assets.epicsevendb.com/buff/stic_att_up2.png)
 - ![](https://assets.epicsevendb.com/buff/stic_cridmg_up.png) **Crit damage buff** (which buff crit damage by a flat 50%) is only granted by [Green Rin](https://epicsevendb.com/hero/rin) with her S3 to team on a RNG chance and [ML Rin](https://epicsevendb.com/hero/crescent-moon-rin) to herself so run Green Rin if you want it but RNG means it can screw you over if it lands on speed.
 - ![](https://assets.epicsevendb.com/buff/stic_cri_up.png) **Crit rate buff** (which buff crit chance by a flat 50%) is granted by a couple of people: [Furious](https://epicsevendb.com/hero/furious), [Tywin](https://epicsevendb.com/hero/tywin), [Challenger Dominiel](https://epicsevendb.com/hero/challenger-dominiel), and ofc the buff stealer [ML Rin](https://epicsevendb.com/hero/crescent-moon-rin) 
-- ![](https://assets.epicsevendb.com/buff/stic_att_up2.png) **Greater attack buff** (which buff attack by 75% and overwrites normal Attack buff) granted by [Yuna](https://epicsevendb.com/hero/yuna) through her EE at a 30% chance (she needs to be 5 stars awakened and that makes her S2 buff speed as well which is not ideal)
-- ![](https://assets.epicsevendb.com/buff/stic_att_up.png) **Attack buff** (which buff attack by 50%) is one of the most accessible buff in the game, finding one shouldn't be that hard
+- ![](https://assets.epicsevendb.com/buff/stic_att_up2.png) **Greater attack buff** (which buff attack by 75% and overwrites normal Attack buff) granted by [Yuna](https://epicsevendb.com/hero/yuna) through her EE at a 30% chance (she needs to be 5 stars awakened and that makes her S2 buff speed as well which is not ideal).
+- ![](https://assets.epicsevendb.com/buff/stic_att_up.png) **Attack buff** (which buff attack by 50%) is one of the most accessible buff in the game, finding one shouldn't be that hard.
 
 ---
 <br/>
@@ -93,7 +93,7 @@ Ok now that your team has 2 units: Yufine and your buffer slave, what more do yo
 # Building Specific Comps
 So far I have theorycrafted/field tested 3 comps that I'm sure that works which I'll detail below
 - Basic, little to no gear requirement: reflect comp
-- High end-gear requirement with proper understanding of the map characteristics: damage counter comps
+- Higher gear requirement with proper understanding of the map characteristics: damage counter comps
 - Galaxy bren ML Rin comp
 
 <br/>
@@ -104,7 +104,7 @@ So far I have theorycrafted/field tested 3 comps that I'm sure that works which 
 > - Low gear investment and easy to execute  
 > - Work wonderfully in Raids but not in normal Labs  
 #### Cons:
-> - RNG only in the 1st part if your Invul buffer is 1 turn and you need to extend it  
+> - Heavily RNG-gate when starting if you are not using SSAcha  
 > - Easiest to get stuck in an infinite loop with non-damage-stacking life steal/shielding mini-bosses  
 > - Slowest of them all  
 
@@ -115,12 +115,13 @@ Well as the name suggest, you just need the bare basic here, 150% ER or at most 
 
 ### Damage Counter Comp:
 #### Pros:
-> - Fast run  
+> - Faster-ish run  
 > - Works great for all type of Labs and Raids  
 > - Flexible team comp (Can dog walk)  
-> - Can kill life steal/shield mini-boss road block  
+> - Can kill life steal/shield mini-boss road block more consistently  
 ### Cons:
-> - Required specific damage tuning to keep buffs up  
+> - Heavily RNG-gate when starting if you are not using SSAcha  
+> - Required specific damage tuning to keep buffs up and not to finish fights too fast  
 > - Higher gear requirement  
 > - **Need to remember to use Arky**  
 
@@ -144,10 +145,10 @@ There's no ideal attack % buff, sometimes you might want more, sometimes you mig
 > - Specific unit required: ML Rin (an ML nat4 that most people benched)  
 > - Specific lab/raid pathing and can't be executed if the condition is not met (RNG Counter mini-boss in lab is RNG)  
 > - **Need to remember to use Arky**  
-> - Yufine's stat also need to be mixed and matched to make sure she can attack enough times to extend the buffs (albeit a bit irrelevant unless you are extrememly unlucky to miss 35% 10 times in a row).  
+> - Yufine's stat also need to be mixed and matched to make sure she can attack enough times to extend the buffs (albeit a bit less punishing unless you are extrememly unlucky to miss 35% 10 times in a row).  
 
 
-This is the hardest comp to execute but it's also the fastest while being the most consistent. The star of the show here is the [counter buff](Yufine%20Raid%20Boss%20Guide.md#counter-ml-rin-exclusive-steal) which can only be obtained by stealing it from a counterattacking mini-boss (most notably 2nd miniboss on Hell Kark side) else everything is straight forward, stack as much damage buffs, etc etc. Since your Yufine is countering every attack, counter set is not even needed in this comp and you can safely go resist or attack/destruction/crit sets instead. **P.S: REMEMBER ARKY BUFF**
+This is the hardest comp to execute but it's also the fastest while being the most consistent (no more RNG Counter hurray). The star of the show here is the [counter buff](Yufine%20Raid%20Boss%20Guide.md#counter-ml-rin-exclusive-steal) which can only be obtained by stealing it from a counterattacking mini-boss (most notably 2nd miniboss on Hell Kark side) else everything is straight forward, stack attack, crit and reflect buffs, etc etc. Since your Yufine is countering every attack, counter set is not even needed in this comp and you can safely go resist or attack/destruction/crit sets instead. **P.S: REMEMBER ARKY BUFF**
 
 ---
 
