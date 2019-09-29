@@ -92,8 +92,8 @@ Ok now that your team has 2 units: Yufine and your buffer slave, what more do yo
 
 # Building Specific Comps
 So far I have theorycrafted/field tested 3 comps that I'm sure that works which I'll detail below
-- Basic, little to no gear requirement: reflect comp
-- Higher gear requirement with proper understanding of the map characteristics: damage counter comps
+- Bare minimum, poverty: Only reflect comp
+- Higher gear requirement with proper understanding of the map characteristics: damage counter comps (maybe reflect)
 - Galaxy bren ML Rin comp
 
 <br/>
@@ -119,6 +119,7 @@ Well as the name suggest, you just need the bare basic here, 150% ER or at most 
 > - Works great for all type of Labs and Raids  
 > - Flexible team comp (Can dog walk)  
 > - Can kill life steal/shield mini-boss road block more consistently  
+> - Can also use Ice Domi for reflect to enhance damage
 ### Cons:
 > - Heavily RNG-gate when starting if you are not using SSAcha  
 > - Required specific damage tuning to keep buffs up and not to finish fights too fast  
@@ -131,7 +132,7 @@ This is the cookie cutter, most commonly used comp to farm ancient coins/gold fr
 > 20% (Arky) + 50/75% (Attack buff) + 25% (Sigurd) - 90% (morale) = -20% to +20% attack debuff/buff
 
 
-There's no ideal attack % buff, sometimes you might want more, sometimes you might want less, you need to fine tune Yufine damage so she don't kill mobs too fast else the buffs might elapsed on an unlucky no counter/extension streak. 
+There's no ideal attack % buff, sometimes you might want more, sometimes you might want less, you need to fine tune Yufine damage so she don't kill mobs too fast else the buffs might elapsed on an unlucky no counter/extension streak.  **You can also use reflect to enhance damage but that might mess up some runs*
 
 <br/>
 
