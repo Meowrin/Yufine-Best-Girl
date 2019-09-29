@@ -47,7 +47,7 @@ Other desirable stats on your Raid boss include:
 - Attack
 - Crit (both chance and damage) -> you can go 30% crit chance and have crit buff + arky buff to get 100% crit chance
 
-#### Artifacts: This is straight forward enough, Strak a lot of the time to fill ER req, Uberius if you stack 100% crit chance and not running SSAcha, Sigurd only with SSAcha, no real reason to use anything else
+#### Artifacts: This is straight forward enough, Strak a lot of the time to fill ER requisite, Uberius if you stack 100% crit chance and not running SSAcha, Sigurd only with SSAcha, no real reason to use anything else
 - ![](https://assets.epicsevendb.com/artifact/strak-gauntlet/icon.png) **[Strak's Gauntlet](https://epicsevendb.com/artifact/els-fist):** well 30-60% ER cuts down your gear requirement greatly so people like this (Doesn't work as well with SSAcha cause Immortality).
 - ![](https://assets.epicsevendb.com/artifact/sigurd-scythe/icon.png) **[Sigurd Scythe](https://epicsevendb.com/artifact/sigurd-scythe):** This only works with SSAcha's immortality and its attack buff is addictive to morale so you would have 25% attack to counteract the -90% damage debuff of -50 morale.
 - ![](https://assets.epicsevendb.com/artifact/uberiuss-tooth/icon.png) **[Uberius Tooth](https://epicsevendb.com/artifact/uberiuss-tooth):** Straight damage increase for people who have enough ER and just want more damage (stacking crit buff and Arky for 70% crit chance increase is pretty nice)
@@ -126,7 +126,7 @@ Well as the name suggest, you just need the bare basic here, 150% ER or at most 
 > - **Need to remember to use Arky**  
 
 
-This is the cookie cutter, most commonly used comp to farm ancient coins/gold from normal labs. This is where SSAcha shines as the best Primary buffer with her synergy with Sigurd Scythe buffing 25% attack on Yufine. Best used buffers are Yuna (greater attack buff), Blaze Dingo (Invul + Attack), and Tywin (Attack + Crit chance). The core of this comp is buffing with **Arky buff**, Attack buff and with SSAcha, Sigurd Scythe to counteract the morale debuff giving your Yufine her damage back. the math is as followed:
+This is the cookie cutter, most commonly used comp to farm ancient coins/gold from normal labs. This is where SSAcha shines as the best Primary buffer with her synergy with Sigurd Scythe buffing 25% attack on Yufine. Best used buffers are Yuna (greater attack buff) despite the speed buff gimping, Blaze Dingo (Invul + Attack), and Tywin (Attack + Crit chance). The core of this comp is buffing with **Arky buff**, (Greater) Attack buff and with SSAcha, Sigurd Scythe to counteract the morale debuff giving your Yufine her damage back. the math is as followed:
 
 > 20% (Arky) + 50/75% (Attack buff) + 25% (Sigurd) - 90% (morale) = -20% to +20% attack debuff/buff
 
@@ -148,7 +148,7 @@ There's no ideal attack % buff, sometimes you might want more, sometimes you mig
 > - Yufine's stat also need to be mixed and matched to make sure she can attack enough times to extend the buffs (albeit a bit less punishing unless you are extrememly unlucky to miss 35% 10 times in a row).  
 
 
-This is the hardest comp to execute but it's also the fastest while being the most consistent (no more RNG Counter hurray). The star of the show here is the [counter buff](Yufine%20Raid%20Boss%20Guide.md#counter-ml-rin-exclusive-steal) which can only be obtained by stealing it from a counterattacking mini-boss (most notably 2nd miniboss on Hell Kark side) else everything is straight forward, stack attack, crit and reflect buffs, etc etc. Since your Yufine is countering every attack, counter set is not even needed in this comp and you can safely go resist or attack/destruction/crit sets instead. **P.S: REMEMBER ARKY BUFF**
+This is the hardest comp to execute but it's also the fastest while being the most consistent (no more RNG Counter hurray). The star of the show here is the [counter buff](Yufine%20Raid%20Boss%20Guide.md#counter-ml-rin-exclusive-steal) which can only be obtained by stealing it from a counterattacking mini-boss (most notably 2nd miniboss on Hell Kark side) else everything is straight forward, stack attack, crit and reflect buffs, etc etc. Since your Yufine is countering every attack, counter set is not even needed in this comp and you can safely go resist to meet the ER requisite or attack/destruction/crit sets instead. **P.S: REMEMBER ARKY BUFF**
 
 ---
 
