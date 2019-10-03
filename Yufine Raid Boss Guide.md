@@ -67,7 +67,7 @@ Other desirable stats on your Raid boss include:
 ### ![](https://assets.epicsevendb.com/hero/crimson-armin/small.png) **[Crimson Armin](https://epicsevendb.com/hero/crimson-armin): Has ER Imprints**
 ### ![](https://assets.epicsevendb.com/hero/blaze-dingo/small.png) **[Blaze Dingo](https://epicsevendb.com/hero/blaze-dingo): Has attack buff**
 ### ![](https://assets.epicsevendb.com/hero/achates/small.png) **[Achates](https://epicsevendb.com/hero/achates)**
-### ![](https://assets.epicsevendb.com/hero/crescent-moon-rin/small.png) **[~~Crescent Moon Rin~~](https://epicsevendb.com/hero/crescent-moon-rin): ~~Steal buffs but don't have innate Invincibility/Immortality~~ Sorry Rin, there's no dispellable Invincibility/Immortality in PvE
+### ![](https://assets.epicsevendb.com/hero/crescent-moon-rin/small.png) [~~Crescent Moon Rin~~](https://epicsevendb.com/hero/crescent-moon-rin): ~~Steal buffs but don't have innate Invincibility/Immortality~~ Sorry Rin, there's no dispellable Invincibility/Immortality in PvE
 #### **Important Note**: Imprints last even if the unit granting it dies so SSAcha and CArmin is very nice to lessen the gear requirement.
 
 ---
