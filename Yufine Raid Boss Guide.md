@@ -137,17 +137,17 @@ There's no ideal attack % buff, sometimes you might want more, sometimes you mig
 
 <br/>
 
-### ML Rin Comp: Keeping it just in case for the future
+### ML Rin Comp: Not relevant or applicable but keeping it just in case for the future
 
-~~#### Pros:
+#### Pros:
 > - Sanic Speed Run even at -50 morale  
-> - Super consistent and will never fail (unless you fail 35% proc 10 times in a row), can solo 4/5 bosses in normal raids and do everything in Hell raid available  ~~
+> - Super consistent and will never fail (unless you fail 35% proc 10 times in a row), can solo 4/5 bosses in normal raids and do everything in Hell raid available
 
-~~#### Cons:
+#### Cons:
 > - Specific unit required: ML Rin (an ML nat4 that most people benched)  
 > - Specific lab/raid pathing and can't be executed if the condition is not met (RNG Counter mini-boss in lab is RNG)  
 > - **Need to remember to use Arky**  
-> - Yufine's stat also need to be mixed and matched to make sure she can attack enough times to extend the buffs (albeit a bit less punishing unless you are extrememly unlucky to miss 35% 10 times in a row).  ~~
+> - Yufine's stat also need to be mixed and matched to make sure she can attack enough times to extend the buffs (albeit a bit less punishing unless you are extrememly unlucky to miss 35% 10 times in a row).
 
 
 ~~This is the hardest comp to execute but it's also the fastest while being the most consistent (no more RNG Counter hurray). The star of the show here is the [counter buff](Yufine%20Raid%20Boss%20Guide.md#counter-ml-rin-exclusive-steal) which can only be obtained by stealing it from a counterattacking mini-boss (most notably 2nd miniboss on Hell Kark side) else everything is straight forward, stack attack, crit and reflect buffs, etc etc. Since your Yufine is countering every attack, counter set is not even needed in this comp and you can safely go resist to meet the ER requisite or attack/destruction/crit sets instead. **P.S: REMEMBER ARKY BUFF**~~
