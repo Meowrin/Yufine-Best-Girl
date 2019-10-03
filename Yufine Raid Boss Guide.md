@@ -67,8 +67,8 @@ Other desirable stats on your Raid boss include:
 ### ![](https://assets.epicsevendb.com/hero/crimson-armin/small.png) **[Crimson Armin](https://epicsevendb.com/hero/crimson-armin): Has ER Imprints**
 ### ![](https://assets.epicsevendb.com/hero/blaze-dingo/small.png) **[Blaze Dingo](https://epicsevendb.com/hero/blaze-dingo): Has attack buff**
 ### ![](https://assets.epicsevendb.com/hero/achates/small.png) **[Achates](https://epicsevendb.com/hero/achates)**
-### ![](https://assets.epicsevendb.com/hero/crescent-moon-rin/small.png) **[Crescent Moon Rin](https://epicsevendb.com/hero/crescent-moon-rin): Steal buffs but don't have innate Invincibility/Immortality**
-#### **Important Note**: Imprints last even if the unit granting it dies so SSAcha and CArmin is very nice to lessen the gear requirement. Also ML Rin don't have innate Invincibility/Immortality buff but rather depends on the enemies having them for her to steal which is really rare and situational so she might not even be here but I would be on a stake if I don't put her here.
+### ![](https://assets.epicsevendb.com/hero/crescent-moon-rin/small.png) **[~~Crescent Moon Rin~~](https://epicsevendb.com/hero/crescent-moon-rin): ~~Steal buffs but don't have innate Invincibility/Immortality~~ Sorry Rin, there's no dispellable Invincibility/Immortality in PvE
+#### **Important Note**: Imprints last even if the unit granting it dies so SSAcha and CArmin is very nice to lessen the gear requirement.
 
 ---
 <br/>
@@ -77,9 +77,9 @@ Other desirable stats on your Raid boss include:
 Ok now that your team has 2 units: Yufine and your buffer slave, what more do you want? Well more buffs always help which I will seperate by order of usefulness as well as more imprints (except speed). Sadly all the other ER imprints are non-buffers so body drag time (I guess I should put a throwaway note listing them here: [Fallen Cecilia](https://epicsevendb.com/hero/fallen-cecilia), [Maid Chloe](https://epicsevendb.com/hero/maid-chloe), [Fighter Maya](https://epicsevendb.com/hero/fighter-maya), [Angelica](https://epicsevendb.com/hero/angelica), [Crozet](https://epicsevendb.com/hero/crozet))
 ### ![](https://assets.epicsevendb.com/buff/stic_reflect.png)Reflect: (a.k.a Dominiel is 2nd best girl, it's canon now)
 #### ![](https://assets.epicsevendb.com/hero/dominiel/small.png)[Dominiel](https://epicsevendb.com/hero/dominiel): Remember me?
-> This buff reflect back 30% of the damage your raid boss (should) have taken after defense calculation back to the attacker ignoring their defense all the while (the damage reflect can't exceed your Yufine max HP so stacking hp is actually legit if it wasn't for the fact that you can't buff hp% to negate the morale so it's kinda wasted, but hey free damage is still free damage). Ok, let's be real, you aren't going to do consistent damage relying on 20% counter so this buff granted by Ice Dominiel (not the Mola eating, crit buffing, oneshotting legend Dodomi but the forgotten Dominiel Nixied) is gonna be the most sure-fire way to get more damage. (It also allows her to solo Hell Kark even without using S2 or ML Rin)
-### ![](https://assets.epicsevendb.com/buff/stic_counter.png)Counter: [ML Rin](https://epicsevendb.com/hero/crescent-moon-rin) exclusive steal
-> This buff makes the buffed target has 100% counter chance upon being hit. It sounds so good, what's the catch? Well, you just have to search out a counterattack mini-boss, proc it and let [ML Rin](https://epicsevendb.com/hero/crescent-moon-rin) steals the buff for your raid boss. Seems straight forward enough if it wasn't gated to that 2nd mini-boss fight on the Hell Kark side and somewhere in normal raid.
+> This buff reflect back 30% of the damage your raid boss (should) have taken after defense calculation back to the attacker ignoring their defense all the while (the damage reflect can't exceed your Yufine max HP so stacking hp is actually legit if it wasn't for the fact that you can't buff hp% to negate the morale so it's kinda wasted, but hey free damage is still free damage). Ok, let's be real, you aren't going to do consistent damage relying on 20% counter so this buff granted by Ice Dominiel (not the Mola eating, crit buffing, oneshotting legend Dodomi but the forgotten Dominiel Nixied) is gonna be the most sure-fire way to get more damage. (It also allows her to solo Hell Kark even without using S2)
+### ![](https://assets.epicsevendb.com/buff/stic_counter.png)Counter: [~~ML Rin](https://epicsevendb.com/hero/crescent-moon-rin) exclusive steal~~ RIP the 100% counter the dream 
+> This buff makes the buffed target has 100% counter chance upon being hit. It sounds so good, what's the catch? Well, you just have to search out a dispellable counter enemy, which isn't applicable where we want to run this comp (counter mini-boss buff is undispelable). Then where else? The Swordmans/Knights mobs have an ult that has it or find a buff stealing enemy (Golbin King) which are both not applicable where we want to farm (raids or lab 3). 
 ### ![](https://epic7x.com/wp-content/uploads/2019/03/guardians-blessing.png)Guardians Blessing: Colloquially known as Arky's buff (Essential in all comps)
 > Well this one is straight forward enough no? Practically a free 20% attack and crit chance buff, only downside is spending 30 soul (charges) using the literal best dps Guardian available: **Fluffly Arky**
 ### List of Offensive buffs: ![](https://assets.epicsevendb.com/buff/stic_cridmg_up.png) ![](https://assets.epicsevendb.com/buff/stic_cri_up.png) ![](https://assets.epicsevendb.com/buff/stic_att_up.png) ![](https://assets.epicsevendb.com/buff/stic_att_up2.png)
@@ -95,7 +95,7 @@ Ok now that your team has 2 units: Yufine and your buffer slave, what more do yo
 So far I have theorycrafted/field tested 3 comps that I'm sure that works which I'll detail below
 - Bare minimum, poverty: Only reflect comp
 - Higher gear requirement with proper understanding of the map characteristics: damage counter comps (maybe reflect)
-- Galaxy bren ML Rin comp
+- ~~Galaxy bren ML Rin comp~~ Rip the dream
 
 <br/>
 
@@ -137,20 +137,20 @@ There's no ideal attack % buff, sometimes you might want more, sometimes you mig
 
 <br/>
 
-### ML Rin Comp:
+### ML Rin Comp: Keeping it just in case for the future
 
-#### Pros:
+~~#### Pros:
 > - Sanic Speed Run even at -50 morale  
-> - Super consistent and will never fail (unless you fail 35% proc 10 times in a row), can solo 4/5 bosses in normal raids and do everything in Hell raid available  
+> - Super consistent and will never fail (unless you fail 35% proc 10 times in a row), can solo 4/5 bosses in normal raids and do everything in Hell raid available  ~~
 
-#### Cons:
+~~#### Cons:
 > - Specific unit required: ML Rin (an ML nat4 that most people benched)  
 > - Specific lab/raid pathing and can't be executed if the condition is not met (RNG Counter mini-boss in lab is RNG)  
 > - **Need to remember to use Arky**  
-> - Yufine's stat also need to be mixed and matched to make sure she can attack enough times to extend the buffs (albeit a bit less punishing unless you are extrememly unlucky to miss 35% 10 times in a row).  
+> - Yufine's stat also need to be mixed and matched to make sure she can attack enough times to extend the buffs (albeit a bit less punishing unless you are extrememly unlucky to miss 35% 10 times in a row).  ~~
 
 
-This is the hardest comp to execute but it's also the fastest while being the most consistent (no more RNG Counter hurray). The star of the show here is the [counter buff](Yufine%20Raid%20Boss%20Guide.md#counter-ml-rin-exclusive-steal) which can only be obtained by stealing it from a counterattacking mini-boss (most notably 2nd miniboss on Hell Kark side) else everything is straight forward, stack attack, crit and reflect buffs, etc etc. Since your Yufine is countering every attack, counter set is not even needed in this comp and you can safely go resist to meet the ER requisite or attack/destruction/crit sets instead. **P.S: REMEMBER ARKY BUFF**
+~~This is the hardest comp to execute but it's also the fastest while being the most consistent (no more RNG Counter hurray). The star of the show here is the [counter buff](Yufine%20Raid%20Boss%20Guide.md#counter-ml-rin-exclusive-steal) which can only be obtained by stealing it from a counterattacking mini-boss (most notably 2nd miniboss on Hell Kark side) else everything is straight forward, stack attack, crit and reflect buffs, etc etc. Since your Yufine is countering every attack, counter set is not even needed in this comp and you can safely go resist to meet the ER requisite or attack/destruction/crit sets instead. **P.S: REMEMBER ARKY BUFF**~~
 
 ---
 
