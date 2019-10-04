@@ -130,7 +130,7 @@ Well as the name suggest, you just need the bare basic here, 150% ER or at most 
 
 This is the cookie cutter, most commonly used comp to farm ancient coins/gold from normal labs. This is where SSAcha shines as the best Primary buffer with her synergy with Sigurd Scythe buffing 25% attack on Yufine. Best used buffers are Yuna (greater attack buff) despite the speed buff gimping, Blaze Dingo (Invul + Attack), and Tywin (Attack + Crit chance). The core of this comp is buffing with **Arky buff**, (Greater) Attack buff and with SSAcha, Sigurd Scythe to counteract the morale debuff giving your Yufine her damage back. the math is as followed:
 
-> 20% (Arky) + 50/75% (Attack buff) + 25% (Sigurd) - 90% (morale) = -20% to +20% attack debuff/buff
+> 20% (Arky) + 50/75% (Attack buff) + 25% (Sigurd) - 90% (morale) = -20% to +30% attack debuff/buff
 
 
 There's no ideal attack % buff, sometimes you might want more, sometimes you might want less, you need to fine tune Yufine damage so she don't kill mobs too fast else the buffs might elapsed on an unlucky no counter/extension streak.  **You can also use reflect to enhance damage but that might mess up some runs*
