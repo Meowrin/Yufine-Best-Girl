@@ -44,7 +44,7 @@ In the context of this exclusively PvE guide, we will not touch on PvP Eff. So h
 > **TL;DR: enemy ER + 100% is your desired ER number after all imprints and gears + artifact**
 
 Other desirable stats on your Raid boss include:
-- **LOW SPEED:** Like actually base speed, ideally you don't want to go above 140 speed generally and you want as low as possible to preserve your buffs and proc more counter to extend them (Don't buff speed, never use S2, I'm in the process of testing no morale solo Hell Kark fight, which I'm pretty sure you can RNG counter to dispel his stealth or wait till reflect do more than enough damage rather than using S2 to dispel it)
+- **LOW SPEED:** Like actually base speed, ideally you don't want to go above 140 speed generally and you want as low as possible to preserve your buffs and proc more counter to extend them (Don't buff speed, never use S2, even Hell Kark fight, you can RNG counter to dispel his stealth which he will stops doing at a certain point and just spam Arky till he's dead, it takes a while but it's doable)
 - Attack
 - Crit (both chance and damage) -> you can go 30% crit chance and have crit buff + arky buff to get 100% crit chance
 
