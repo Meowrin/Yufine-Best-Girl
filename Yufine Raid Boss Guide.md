@@ -38,9 +38,8 @@ Are you tired of spending weeks 100%-ing normal labs? Are you tired of optimizin
  - **Either make sure she has enough ER to resist all debuffs or you are sure her buffs aren't getting dispelled (Yes, you can resist dispels like all other debuffs)**
 
 In the context of this exclusively PvE guide, we will not touch on PvP Eff. So how much ER does your Yufine needs, well it depends on the situation, _generally_, and very generally, PvE mobs will have the same Eff as their ER. A safe spot to aim for is 
-- 170-175% is just for end-game stuffs where stuffs have 70-75% ER
+- 170-175% is actually recommended for Normal and Hell Raid bosses (Queen has 70% ER, the mini adds in Hell Kark is presumed to have 50% tho)
 - 150% for Hell Raid elites and Nixied Sanctum
-- 125% for Normal Raid and other content
 > **TL;DR: enemy ER + 100% is your desired ER number after all imprints and gears + artifact**
 
 Other desirable stats on your Raid boss include:
