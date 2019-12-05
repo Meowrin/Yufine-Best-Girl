@@ -10,12 +10,12 @@
 <br/>
 
 # Intro
-Are you tired of spending weeks 100%-ing normal labs? Are you tired of optimizing 40-44 morale Hell Raid teams that trudge through both bosses and soon 5 whole fricking bosses, all the while optimizing for each? That's insane, I'm insane ![MutsukiCurse](https://cdn.discordapp.com/attachments/559988477991583747/627001616943546368/MutsukiYou.png) So for the insane people like me or Oklo [who spends 3 hours to farm 1k+ ancient coins in lab 3-2](https://cdn.discordapp.com/attachments/618249387822546975/627261082716602368/Screenshot_2019-09-27-14-33-43.png), I present to you a guide to raid boss **"best girl Yufine"** <sub> ~~- Dimbreath~~ </sub> . I'm also stupid for writing this guide. And tbh, you are right, SG will prolly "bug fix" this like how they fucked over Sez as soon as 5 bosses Hell Raid hit, but until they do. **THIS IS A FEATURE**, I repeat, 
+Are you tired of spending weeks 100%-ing normal labs? Are you tired of optimizing 40-44 morale Hell Raid teams that trudge through both bosses and soon 5 whole fricking bosses, all the while optimizing for each? That's insane, I'm insane ![MutsukiCurse](https://cdn.discordapp.com/attachments/559991088035921920/651969597649584138/MutsukiYou.png) So for the insane people like me or Oklo [who spends 3 hours to farm 1k+ ancient coins in lab 3-2](https://cdn.discordapp.com/attachments/618249387822546975/627261082716602368/Screenshot_2019-09-27-14-33-43.png), I present to you a guide to raid boss **"best girl Yufine"** <sub> ~~- Dimbreath~~ </sub> . I'm also stupid for writing this guide. And tbh, you are right, SG will prolly ~~"bug fix" this like how they fucked over Sez as soon as 5 bosses Hell Raid hit, but until they do. **THIS IS A FEATURE**, I repeat,~~ never fix this cause they will never gonna touch PvE content balancing anyways
 #### **_This is not a bug, an exploit or anything that game breaking, this is a perfectly intended game interaction by the devs. /s_** 
 
-<sub> Regretting skipping that Yufine banner now? ![](https://cdn.discordapp.com/attachments/559988477991583747/627330575581315090/SmugBucky.png) </sub>
+<sub> Regretting skipping that Yufine banner now? ![](https://cdn.discordapp.com/attachments/559991088035921920/651969567291342849/SmugBucky.png) </sub>
 
-> P.S: Oh btw, this is not a PvP guide, although you can run basically the same shit in PvP and feed all the fights but don't let me stop you (well cause there's no -90% speed on your raid boss to counter enough times to extend buffs and Basars have like 125% Eff even while on 250 speed). 
+> P.S: Oh btw, this is not a PvP guide, although you can run basically the same shit in PvP and feed all the fights but don't let me stop you (well cause there's no -90% speed on your raid boss to counter enough times to extend buffs and Basars have like 125% Eff even while on 250 speed, but hey, new flash, you can run up to 280% ER now with Strak Elena buff and a lot of ER subs). 
 
 **Legacy:** here for convenience (pretty common terms but you'll never know)
 - ER = Effect Resistance (the stat that let you resist more than just RNG 15%)
@@ -62,23 +62,25 @@ Other desirable stats on your Raid boss include:
 
 ### ![](https://assets.epicsevendb.com/hero/ruele-of-light/small.png) **[Ruele of Light](https://epicsevendb.com/hero/ruele-of-light)**
 ### ![](https://assets.epicsevendb.com/hero/shooting-star-achates/small.png) **[Shooting Star Achates](https://epicsevendb.com/hero/shooting-star-achates): Has ER Imprints and her buff last 3 turns requiring less RNG when starting**
-
+### ![](https://assets.epicsevendb.com/hero/elena/small.png) **[Elena](https://assets.epicsevendb.com/hero/elena): Has 50% ER buff in her kit that goes with a 1 turn invincibility buff (reduces ER requirement from gears even more)
 ### ![](https://assets.epicsevendb.com/hero/crimson-armin/small.png) **[Crimson Armin](https://epicsevendb.com/hero/crimson-armin): Has ER Imprints**
 ### ![](https://assets.epicsevendb.com/hero/blaze-dingo/small.png) **[Blaze Dingo](https://epicsevendb.com/hero/blaze-dingo): Has attack buff**
 ### ![](https://assets.epicsevendb.com/hero/achates/small.png) **[Achates](https://epicsevendb.com/hero/achates)**
 ### ![](https://assets.epicsevendb.com/hero/crescent-moon-rin/small.png) [~~Crescent Moon Rin~~](https://epicsevendb.com/hero/crescent-moon-rin): ~~Steal buffs but don't have innate Invincibility/Immortality~~ Sorry Rin, there's no dispellable Invincibility/Immortality in PvE
+
 #### **Important Note**: Imprints last even if the unit granting it dies so SSAcha and CArmin is very nice to lessen the gear requirement.
 
 ---
 <br/>
 
-# Complementary Components:
-Ok now that your team has 2 units: Yufine and your buffer slave, what more do you want? Well more buffs always help which I will seperate by order of usefulness as well as more imprints (except speed). Sadly all the other ER imprints are non-buffers so body drag time (I guess I should put a throwaway note listing them here: [Fallen Cecilia](https://epicsevendb.com/hero/fallen-cecilia), [Maid Chloe](https://epicsevendb.com/hero/maid-chloe), [Fighter Maya](https://epicsevendb.com/hero/fighter-maya), [Angelica](https://epicsevendb.com/hero/angelica), [Crozet](https://epicsevendb.com/hero/crozet))
+# Complementary Components: 
+Ok now that your team has 2 units: Yufine and your buffer slave (I like Elena the most 50% ER is a lot), what more do you want? Well more buffs always help which I will seperate by order of usefulness as well as more imprints (except speed). Sadly all the other ER imprints are non-buffers so body drag time (I guess I should put a throwaway note listing them here: [Fallen Cecilia](https://epicsevendb.com/hero/fallen-cecilia), [Maid Chloe](https://epicsevendb.com/hero/maid-chloe), [Fighter Maya](https://epicsevendb.com/hero/fighter-maya), [Angelica](https://epicsevendb.com/hero/angelica), [Crozet](https://epicsevendb.com/hero/crozet))
 ### ![](https://assets.epicsevendb.com/buff/stic_reflect.png)Reflect: (a.k.a Dominiel is 2nd best girl, it's canon now)
 #### ![](https://assets.epicsevendb.com/hero/dominiel/small.png)[Dominiel](https://epicsevendb.com/hero/dominiel): Remember me?
 > This buff reflect back 30% of the damage your raid boss (should) have taken after defense calculation back to the attacker ignoring their defense all the while (the damage reflect can't exceed your Yufine max HP so stacking hp is actually legit if it wasn't for the fact that you can't buff hp% to negate the morale so it's kinda wasted, but hey [free damage is still free damage](https://cdn.discordapp.com/attachments/618249387822546975/628486654721654785/Screenshot_2019-09-30-23-42-15.png)). Ok, let's be real, you aren't going to do consistent damage relying on 20% counter so this buff granted by Ice Dominiel (not the Mola eating, crit buffing, oneshotting legend Dodomi but the forgotten Dominiel Nixied) is gonna be the most sure-fire way to get more damage. (It also allows her to solo Hell Kark even without using S2)
 ### ![](https://assets.epicsevendb.com/buff/stic_counter.png)Counter: [~~ML Rin~~](https://epicsevendb.com/hero/crescent-moon-rin) ~~exclusive steal~~ RIP the 100% counter the dream 
 > This buff makes the buffed target has 100% counter chance upon being hit. It sounds so good, what's the catch? Well, you just have to search out a dispellable counter enemy, which isn't applicable where we want to run this comp (counter mini-boss buff is undispelable). Then where else? The Swordmans/Knights mobs have an ult that has it or find a buff stealing enemy (Golbin King) which are both not applicable where we want to farm (raids or lab 3). 
+### ![]
 ### ![](https://epic7x.com/wp-content/uploads/2019/03/guardians-blessing.png)Guardians Blessing: Colloquially known as Arky's buff (Essential in all comps)
 > Well this one is straight forward enough no? Practically a free 20% attack and crit chance buff, only downside is spending 30 soul (charges) using the literal best dps Guardian available: **Fluffly Arky**
 ### List of Offensive buffs: ![](https://assets.epicsevendb.com/buff/stic_cridmg_up.png) ![](https://assets.epicsevendb.com/buff/stic_cri_up.png) ![](https://assets.epicsevendb.com/buff/stic_att_up.png) ![](https://assets.epicsevendb.com/buff/stic_att_up2.png) (A.k.a Green Rin is now MVP in this department)
