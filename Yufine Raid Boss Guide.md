@@ -56,7 +56,7 @@ Other desirable stats on your Raid boss include:
 <br/>
 
 ## **Primary Buffer: An Invincible/Immortal buff** 
-#### Your choices on this is limited and they all do the same thing so just pick one that you have (SSAcha is the best imo)
+#### Your choices on this is limited and they all do the same thing so just pick one that you have (Elena/SSAcha is the best imo)
 
 <br/>
 
@@ -74,12 +74,12 @@ Other desirable stats on your Raid boss include:
 <br/>
 
 # Complementary Components: 
-Ok now that your team has 2 units: Yufine and your buffer slave (I like Elena the most 50% ER is a lot), what more do you want? Well more buffs always help which I will seperate by order of usefulness as well as more imprints (except speed). Sadly all the other ER imprints are non-buffers so body drag time (I guess I should put a throwaway note listing them here: [Fallen Cecilia](https://epicsevendb.com/hero/fallen-cecilia), [Maid Chloe](https://epicsevendb.com/hero/maid-chloe), [Fighter Maya](https://epicsevendb.com/hero/fighter-maya), [Angelica](https://epicsevendb.com/hero/angelica), [Crozet](https://epicsevendb.com/hero/crozet))
+Ok now that your team has 2 units: Yufine and your buffer slave, what more do you want? Well more offensive buffs always help which I will seperate by order of usefulness as well as more imprints (except speed). Sadly all the other ER imprints are non-buffers so body drag time (I guess I should put a throwaway note listing them here: [Fallen Cecilia](https://epicsevendb.com/hero/fallen-cecilia), [Maid Chloe](https://epicsevendb.com/hero/maid-chloe), [Fighter Maya](https://epicsevendb.com/hero/fighter-maya), [Angelica](https://epicsevendb.com/hero/angelica), [Crozet](https://epicsevendb.com/hero/crozet))
 ### ![](https://assets.epicsevendb.com/buff/stic_reflect.png)Reflect: (a.k.a Dominiel is 2nd best girl, it's canon now)
 #### ![](https://assets.epicsevendb.com/hero/dominiel/small.png)[Dominiel](https://epicsevendb.com/hero/dominiel): Remember me?
-> This buff reflect back 30% of the damage your raid boss (should) have taken after defense calculation back to the attacker ignoring their defense all the while (the damage reflect can't exceed your Yufine max HP so stacking hp is actually legit if it wasn't for the fact that you can't buff hp% to negate the morale so it's kinda wasted, but hey [free damage is still free damage](https://cdn.discordapp.com/attachments/618249387822546975/628486654721654785/Screenshot_2019-09-30-23-42-15.png)). Ok, let's be real, you aren't going to do consistent damage relying on 20% counter so this buff granted by Ice Dominiel (not the Mola eating, crit buffing, oneshotting legend Dodomi but the forgotten Dominiel Nixied) is gonna be the most sure-fire way to get more damage. (It also allows her to solo Hell Kark even without using S2)
+> This buff reflect back 30% of the damage your raid boss (should) have taken after defense calculation back to the attacker ignoring their defense all the while (the damage reflect can't exceed your Yufine max HP so stacking hp is actually legit if it wasn't for the fact that you can't buff hp% to negate the morale so it's kinda wasted, but hey [free damage is still free damage](https://i.imgur.com/jgjOXuc.png)). Ok, let's be real, you aren't going to do consistent damage relying on 20% counter so this buff granted by Ice Dominiel (not the Mola eating, crit buffing, oneshotting legend Dodomi but the forgotten Dominiel Nixied) is gonna be the most sure-fire way to get more damage. (It also allows her to solo Hell Kark even without using S2)
 ### ![](https://assets.epicsevendb.com/buff/stic_counter.png)Counter: [~~ML Rin~~](https://epicsevendb.com/hero/crescent-moon-rin) ~~exclusive steal~~ RIP the 100% counter the dream 
-> This buff makes the buffed target has 100% counter chance upon being hit. It sounds so good, what's the catch? Well, you just have to search out a dispellable counter enemy, which isn't applicable where we want to run this comp (counter mini-boss buff is undispelable). Then where else? The Swordmans/Knights mobs have an ult that has it or find a buff stealing enemy (Golbin King) which are both not applicable where we want to farm (raids or lab 3). 
+> This buff makes the buffed target has 100% counter chance upon being hit. It sounds so good, what's the catch? Well, you just have to search out a dispellable counter enemy, which isn't applicable where we want to run this comp (counter mini-boss buff is undispelable). Then where else? The Swordmans/Knights mobs have an ult that has it or find a buff stealing enemy (Golbin King) which are both not applicable where we want to farm (raids or lab). 
 ### ![](https://epic7x.com/wp-content/uploads/2019/03/guardians-blessing.png)Guardians Blessing: Colloquially known as Arky's buff (Essential in all comps)
 > Well this one is straight forward enough no? Practically a free 20% attack and crit chance buff, only downside is spending 30 soul (charges) using the literal best dps Guardian available: **Fluffly Arky**
 ### List of Offensive buffs: ![](https://assets.epicsevendb.com/buff/stic_cridmg_up.png) ![](https://assets.epicsevendb.com/buff/stic_cri_up.png) ![](https://assets.epicsevendb.com/buff/stic_att_up.png) ![](https://assets.epicsevendb.com/buff/stic_att_up2.png) (A.k.a Green Rin is now MVP in this department)
@@ -152,6 +152,9 @@ There's no ideal attack % buff, sometimes you might want more, sometimes you mig
 
 ~~This is the hardest comp to execute but it's also the fastest while being the most consistent (no more RNG Counter hurray). The star of the show here is the [counter buff](Yufine%20Raid%20Boss%20Guide.md#counter-ml-rin-exclusive-steal) which can only be obtained by stealing it from a counterattacking mini-boss (most notably 2nd miniboss on Hell Kark side) else everything is straight forward, stack attack, crit and reflect buffs, etc etc. Since your Yufine is countering every attack, counter set is not even needed in this comp and you can safely go resist to meet the ER requisite or attack/destruction/crit sets instead. **P.S: REMEMBER ARKY BUFF**~~
 
+<br/>
+
+#### An example comp would look something like: Yufine (on Strak) + Elena + Green Rin + Ice Domi. The team gives like 110% ER from buffs and artifacts so pumping more damage is easy enough. Another popular one would be Yufine (Sigurd) + SSAcha + Green Rin + Ice Domi.
 ---
 
 ### Credit: Dimbreath#7619 for spreading the Yufine love, Okloio#0505 for theorycrafting, proofreading, screenshots providing and MOST IMPORTANTLY GIVING ME THE IDEA TO MAKE THIS GUIDE => BLAME OKLOIO IF SG "BUGFIX" THIS 
