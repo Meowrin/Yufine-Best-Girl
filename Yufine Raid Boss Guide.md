@@ -15,7 +15,7 @@ Are you tired of spending weeks 100%-ing normal labs? Are you in a pinch for Anc
 
 <sub> Regretting skipping that Yufine banner now? ![](https://cdn.discordapp.com/attachments/559991088035921920/651969567291342849/SmugBucky.png) </sub>
 
-> P.S: Oh btw, this is not a PvP guide, although you can run basically the same shit in PvP and feed all the fights but don't let me stop you (well cause there's no -90% speed on your raid boss to counter enough times to extend buffs and Basars have like 125% Eff even while on 250 speed, but hey, new flash, you can run up to 280% ER now with Strak Elena buff and a lot of ER subs). But you can run Helga to easily fight non-stripping defense instead cause it's the same ~~as long as Candlestick procs~~.
+> P.S: Oh btw, this is not a PvP guide, although you can run basically the same shit in PvP and feed all the fights but don't let me stop you. But you can run Helga to easily fight non-stripping defense instead cause it's kinda the same ~~as long as Candlestick procs~~.
 
 **Legacy:** here for convenience (pretty common terms but you'll never know)
 - ER = Effect Resistance (the stat that let you resist more than just RNG 15%)
@@ -25,13 +25,13 @@ Are you tired of spending weeks 100%-ing normal labs? Are you in a pinch for Anc
 ## Important note on stat stacking: passives, buffs, debuffs, artifacts and morale impacts are all additive to each other and are added on top of the character sheet stats. Therefore Sigurd Scythe is a direct damage increase that negates the effect of morale when used with ML Achates. And speed buff from Yufine's S2 is your greatest enemy.
 ### Note on one of the normal raid boss: Juleeve Council has an ignore ER dispel so Yufine will not be able to solo it. If you want to do a single run, you have to rush it as 1st boss while your morale holds.
 
-## Important Note: SG implemented a counter to this strategy by making the server disconnect you if you don't toggle buttons or chat or w.e for about 30 mins so do take note of that
+## Important Note: SG implemented a counter to this strategy by making the server disconnect you if you don't toggle buttons or chat or w.e for about 30 mins so do take note of that. Update: This doesn't work on Sage Baal in Nixied because he reduces ER to 0 and strips buffs often.
 ---
 <br/>
 
 # Essential Components
 
-## ![](https://assets.epicsevendb.com/hero/yufine/small.png) **[Best girl Yufine](https://epicsevendb.com/hero/yufine)** ~~_Obviously_~~
+## [![](https://assets.epicsevendb.com/hero/yufine/small.png) **Best girl Yufine**](https://epicsevendb.com/hero/yufine)**
 
 #### Even best girl needs gears if you want her to be an actual raid boss, the requirement is actually quite simple:
  - **A Counter set farmed from her nuking Banshee hunts or poverty gears from secret shop** ~~unless you galaxy bren with ML Rin and steal a counter buff somewhere~~
@@ -49,10 +49,10 @@ Other desirable stats on your Raid boss include:
 - Crit (both chance and damage) -> you can go 30% crit chance and have crit buff + arky buff to get 100% crit chance
 
 #### Artifacts: This is straight forward enough, Strak a lot of the time to fill ER requisite, Uberius if you stack 100% crit chance and not running SSAcha, Sigurd only with SSAcha, no real reason to use anything else
-- ![](https://assets.epicsevendb.com/artifact/strak-gauntlet/icon.png) **[Strak's Gauntlet](https://epicsevendb.com/artifact/els-fist):** well 30-60% ER cuts down your gear requirement greatly so people like this (Doesn't work as well with SSAcha cause Immortality).
-- ![](https://assets.epicsevendb.com/artifact/sigurd-scythe/icon.png) **[Sigurd Scythe](https://epicsevendb.com/artifact/sigurd-scythe):** This only works with SSAcha's immortality and its attack buff is addictive to morale so you would have 25% attack to counteract the -90% damage debuff of -50 morale.
-- ![](https://assets.epicsevendb.com/artifact/uberiuss-tooth/icon.png) **[Uberius Tooth](https://epicsevendb.com/artifact/uberiuss-tooth):** Straight damage increase for people who have enough ER and just want more damage (stacking crit buff and Arky for 70% crit chance increase is pretty nice)
-- ![](https://assets.epicsevendb.com/artifact/els-fist/icon.png) **[El's Fist](https://epicsevendb.com/artifact/els-fist):** Ok, this mostly doesn't work cause speed buff from this is addictive to morale so you would be having 60% speed and not 10% at -50 morale, but you can have counter buff somewhere and it still can work, maybe, still steer clear of it is my opinion
+- [![](https://assets.epicsevendb.com/artifact/strak-gauntlet/icon.png)**Strak's Gauntlet:**](https://epicsevendb.com/artifact/strak-gauntlet) well 30-60% ER cuts down your gear requirement greatly so people like this (doesn't work as well with SSAcha cause Immortality).
+- [![](https://assets.epicsevendb.com/artifact/sigurd-scythe/icon.png) **Sigurd Scythe](https://epicsevendb.com/artifact/sigurd-scythe):** This only works with SSAcha's immortality and its attack buff is addictive to morale so you would have +25% attack to counteract the -90% attack debuff of -50 morale. Work at even without enhancements
+- [![](https://assets.epicsevendb.com/artifact/uberiuss-tooth/icon.png)](https://epicsevendb.com/artifact/uberiuss-tooth) [![](https://assets.epicsevendb.com/artifact/junkyard-dog/icon.png)](https://epicsevendb.com/artifact/junkyard-dog) [![](https://assets.epicsevendb.com/_source/item_arti/icon_art0082.png)](https://epicsevendb.com/artifact/alencinoxs-wrath) [![](https://assets.epicsevendb.com/_source/item_arti/icon_art0070.png)](https://epicsevendb.com/artifact/draco-plate) [![](https://assets.epicsevendb.com/_source/item_arti/icon_art3_4.png)](https://epicsevendb.com/artifact/ancient-sheath) List of viable damage increasing artifacts from left to right: Uberius Tooth, Junkyard Dog, Alencinox's Wrath, Draco Plate, Ancient Sheath. Pick and choose what stat buff/damage increase artifact you want.
+- [![](https://assets.epicsevendb.com/artifact/els-fist/icon.png) **El's Fist](https://epicsevendb.com/artifact/els-fist):** Remember how the speed requirement is low speed? Then this just counteract that completely because speed buff from this is addictive to morale so you would be having 60% speed and not 10% at -50 morale therefore can't keep your buffs
 
 <br/>
 
@@ -61,13 +61,13 @@ Other desirable stats on your Raid boss include:
 
 <br/>
 
-### ![](https://assets.epicsevendb.com/hero/ruele-of-light/small.png) **[Ruele of Light](https://epicsevendb.com/hero/ruele-of-light)**
-### ![](https://assets.epicsevendb.com/hero/shooting-star-achates/small.png) **[Shooting Star Achates](https://epicsevendb.com/hero/shooting-star-achates): Has ER Imprints and her buff last 3 turns requiring less RNG when starting**
-### ![](https://assets.epicsevendb.com/_source/face/c1091_l.png) **[Elena](https://assets.epicsevendb.com/hero/elena): Has 50% ER buff in her kit that goes with a 1 turn invincibility buff (reduces ER requirement from gears even more)**
-### ![](https://assets.epicsevendb.com/hero/crimson-armin/small.png) **[Crimson Armin](https://epicsevendb.com/hero/crimson-armin): Has ER Imprints**
-### ![](https://assets.epicsevendb.com/hero/blaze-dingo/small.png) **[Blaze Dingo](https://epicsevendb.com/hero/blaze-dingo): Has attack buff**
-### ![](https://assets.epicsevendb.com/hero/achates/small.png) **[Achates](https://epicsevendb.com/hero/achates)**
-### ![](https://assets.epicsevendb.com/hero/crescent-moon-rin/small.png) [~~Crescent Moon Rin~~](https://epicsevendb.com/hero/crescent-moon-rin): ~~Steal buffs but don't have innate Invincibility/Immortality~~ Sorry Rin, there's no dispellable Invincibility/Immortality in PvE that is relevant right now.
+### [![](https://assets.epicsevendb.com/hero/ruele-of-light/small.png) **Ruele of Light](https://epicsevendb.com/hero/ruele-of-light)**
+### [![](https://assets.epicsevendb.com/hero/shooting-star-achates/small.png) **Shooting Star Achates](https://epicsevendb.com/hero/shooting-star-achates): Has ER Imprints and her buff last 3 turns requiring less RNG when starting**
+### [![](https://assets.epicsevendb.com/_source/face/c1091_l.png) **Elena](https://assets.epicsevendb.com/hero/elena): Has 50% ER buff in her kit that goes with a 1 turn invincibility buff (reduces ER requirement from gears even more)**
+### [![](https://assets.epicsevendb.com/hero/crimson-armin/small.png) **Crimson Armin](https://epicsevendb.com/hero/crimson-armin): Has ER Imprints**
+### [![](https://assets.epicsevendb.com/hero/blaze-dingo/small.png) **Blaze Dingo](https://epicsevendb.com/hero/blaze-dingo): Has attack buff**
+### [![](https://assets.epicsevendb.com/hero/achates/small.png) **Achates](https://epicsevendb.com/hero/achates)**
+### [![](https://assets.epicsevendb.com/hero/crescent-moon-rin/small.png) ~~Crescent Moon Rin~~](https://epicsevendb.com/hero/crescent-moon-rin): ~~Steal buffs but don't have innate Invincibility/Immortality~~ Sorry Rin, there's no dispellable Invincibility/Immortality in PvE that is relevant right now.
 
 #### **Important Note**: Imprints last even if the unit granting it dies so SSAcha and CArmin is very nice to lessen the gear requirement.
 
