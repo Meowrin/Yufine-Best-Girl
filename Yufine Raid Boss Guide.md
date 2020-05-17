@@ -61,7 +61,7 @@ Other desirable stats on your Raid boss include:
 
 <br/>
 
-### [![](https://assets.epicsevendb.com/_source/face/c2017_l.png) **Shooting Star Achates**](https://epicsevendb.com/hero/shooting-star-achates)**: the only Immortality ![](https://assets.epicsevendb.com/_source/buff/stic_immortality.png) buffer in the game, initial buff last 3 turns requiring less RNG when starting. Also has ER imprints**
+### [![](https://assets.epicsevendb.com/_source/face/c2017_l.png) **Shooting Star Achates**](https://epicsevendb.com/hero/shooting-star-achates)**: the only Immortality ![](https://assets.epicsevendb.com/_source/buff/stic_immortality.png) buffer in the game, initial buff last 3 turns requiring less RNG when starting. Also has ER imprints. The only downside is her random buffs includes: Increase Attack, Crit Chance, Defense, Evasion, Barrier, Continuous Heal, Immunity and the worst of all Increase Speed**
 ### [![](https://assets.epicsevendb.com/_source/face/c1091_l.png) **Elena**](https://assets.epicsevendb.com/hero/elena)**: Has a 50% ER buff ![](https://assets.epicsevendb.com/_source/buff/stic_res_inc.png) in her kit that goes with a 1 turn invincibility buff**
 ### [![](https://assets.epicsevendb.com/_source/face/c2008_l.png) **Crimson Armin**](https://epicsevendb.com/hero/crimson-armin)**: Has ER Imprints**
 ### [![](https://assets.epicsevendb.com/_source/face/c2021_l.png) **Blaze Dingo**](https://epicsevendb.com/hero/blaze-dingo)**: Has attack buff**
@@ -84,7 +84,7 @@ Ok now that your team has 2 units: Yufine and your buffer slave, what more do yo
 ### ![](https://assets.epicsevendb.com/_source/buff/stic_force_arka.png)Guardians Blessing: Colloquially known as Arky's buff (Essential in all comps)
 > Well this one is straight forward enough no? Practically a free 20% attack and crit chance buff, only downside is spending 30 soul (charges) using the literal best dps Guardian available: **Fluffly Arky**
 ### List of other Offensive buffs: ![](https://assets.epicsevendb.com/_source/buff/stic_cridmg_up.png) ![](https://assets.epicsevendb.com/_source/buff/stic_cri_up.png) ![](https://assets.epicsevendb.com/_source/buff/stic_att_up.png) ![](https://assets.epicsevendb.com/_source/buff/stic_att_up2.png) (A.k.a Green Rin is now MVP in this department)
-- ![](https://assets.epicsevendb.com/_source/buff/stic_cridmg_up.png) **Crit damage buff** (which buff crit damage by a flat 50%) is only granted by [Green Rin](https://epicsevendb.com/hero/rin) with her S3 to team on a RNG chance which means it can potentially land on some useless buffs that you don't want but hey with the buffs coming, she has the potential to grant all 3 of the offensive buffs that you want to your raid boss.
+- ![](https://assets.epicsevendb.com/_source/buff/stic_cridmg_up.png) **Crit damage buff** (which buff crit damage by a flat 50%) is only granted by [Green Rin](https://epicsevendb.com/hero/rin) with her S3 to team on a RNG chance which means it can potentially land on some useless buffs that you don't want but she has the potential to grant all 3 of the offensive buffs that you want to your raid boss without risking an Increase Speed buff to boot so no worries there
 - ![](https://assets.epicsevendb.com/_source/buff/stic_cri_up.png) **Crit rate buff** (which buff crit chance by a flat 50%) is granted by a couple of people: [Furious](https://epicsevendb.com/hero/furious), [Tywin](https://epicsevendb.com/hero/tywin), [Challenger Dominiel](https://epicsevendb.com/hero/challenger-dominiel), [Elphelt](https://epicsevendb.com/hero/Elphelt) and the new and improved [Green Rin](https://epicsevendb.com/hero/rin) 
 - ![](https://assets.epicsevendb.com/_source/buff/stic_att_up2.png) **Greater attack buff** (which buff attack by 75% and overwrites normal Attack buff) granted by [Yuna](https://epicsevendb.com/hero/yuna) through her EE at a 30% chance (she needs to be 5 stars awakened and that makes her S2 buffs speed as well which is not ideal) and the newest optimal buffer for this, [Green Rin](https://epicsevendb.com/hero/rin) 
 - ![](https://assets.epicsevendb.com/_source/buff/stic_att_up.png) **Attack buff** (which buff attack by 50%) is one of the most accessible buff in the game, finding one shouldn't be that hard.
@@ -93,7 +93,7 @@ Ok now that your team has 2 units: Yufine and your buffer slave, what more do yo
 <br/>
 
 # General Comp Details
-a.k.a TL;DR section: if you just skip to this point of the guide because learning all the buff details above is too long, that's fine. Basically your team should look something like this: Yufine + Immortality/Invulnerability buffer + Ice Dominiel + Atk buffer
+a.k.a TL;DR section: if you just skip to this point of the guide because learning all the buff details above is too long, that's fine. Basically your team should look something like this: Yufine + Immortality/Invulnerability buffer + Ice Dominiel + Atk buffer.
 
 <br/>
 
