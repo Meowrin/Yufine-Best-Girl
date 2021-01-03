@@ -3,7 +3,7 @@
 ### Table of Contents
 - [Intro](Yufine%20Raid%20Boss%20Guide.md#intro)
 - [Essentials Components](Yufine%20Raid%20Boss%20Guide.md#essential-components)
-- [Complementary Components](Yufine%20Raid%20Boss%20Guide.md#complementary-components)
+- [Complementary Components](Yufine%20Raid%20Boss%20Guide.md#complementaryessentials-components)
 - [General Comp Details](Yufine%20Raid%20Boss%20Guide.md#general-comp-details)
 
 # Intro
