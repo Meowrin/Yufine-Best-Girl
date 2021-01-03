@@ -6,9 +6,6 @@
 - [Complementary Components](Yufine%20Raid%20Boss%20Guide.md#complementary-components)
 - [General Comp Details](Yufine%20Raid%20Boss%20Guide.md#general-comp-details)
 
----
-<br/>
-
 # Intro
 Are you tired of spending weeks 100%-ing normal labs? Are you in a pinch for Ancient Coins for Accessories charms? Do you want to just do one run of normal Raid per week? If you do, you are insane. So for the insane people like me or Oklo [who spends 3 hours to farm 1k+ ancient coins in lab 3-2](https://cdn.discordapp.com/attachments/618249387822546975/627261082716602368/Screenshot_2019-09-27-14-33-43.png), I present to you a guide to raid boss **"best girl Yufine"** <sub> ~~- Dimbreath~~ </sub> . I'm also stupid for writing this guide. And tbh, you are right, SG will prolly ~~"bug fix" this like how they fucked over Sez as soon as 5 bosses Hell Raid hit, but until they do. **THIS IS A FEATURE**~~ never fix this cause they will never gonna touch PvE content balancing anyways
 #### **_This is not a bug, an exploit or anything that game breaking, this is a perfectly intended game interaction by the devs. /s_** 
@@ -22,37 +19,39 @@ Are you tired of spending weeks 100%-ing normal labs? Are you in a pinch for Anc
 - Eff = Effectiveness (the stat let your debuffs not get resisted more than 15% of the time)
 - EE = Exclusive Equipment (A type of unit gears equippable only when 5 stars awakened on a small hexagon next to the artifact slot which is only obtainable through side story or Hall of Trials exchange shop)
 - ML = Moonlight (Referring to the Moonlight Shade version of a character, e.g: Apocalypse Ravi is the Moonlight Shade version of Fire Ravi hence ML Ravi or ARavi, Crescent Moon Rin is ML Rin)
-## Important note on stat stacking: passives, buffs, debuffs, artifacts and morale impacts are all additive to each other and are added on top of the character sheet stats. Therefore Sigurd Scythe is a direct damage increase that negates the effect of morale when used with ML Achates. And speed buff from Yufine's S2 is your greatest enemy.
-### Note on one of the normal raid boss: Juleeve Council has an ignore ER dispel so Yufine will not be able to solo it. If you want to do a single run, you have to rush it as 1st boss while your morale holds.
 
-## Important Note: SG implemented a counter to this strategy by making the server disconnect you if you don't toggle buttons or chat or w.e for about 30 mins so do take note of that. Update: This doesn't work on Sage Baal in Nixied because he reduces ER to 0 and strips buffs often.
----
-<br/>
+## Important notes/update 
+- Stat stacking: passives, buffs, debuffs, artifacts and morale impacts are all additive to each other and are added on top of the character sheet stats. Therefore Sigurd Scythe is a direct damage increase that negates the effect of morale when used with ML Achates. **And speed buff from Yufine's S2 is your greatest enemy.**
+- One of the normal raid boss "Juleeve Council" has an ignore ER dispel when it splits so Yufine will not be able to solo it. If you want to do a single run, you have to rush it as 1st boss while your morale holds. Kark also self heal during stealth so you need to drop it below 40% for it to phase out.
+- SG implemented a counter to this strategy by making the server disconnect you if you don't toggle buttons or chat or w.e for about 30 mins so do take note of that. 
+- Also doesn't work against a lot of Nixied bosses like Dominiel (because mob heals), Sage Baal (because he reduces ER to 0 and strips buffs often)
 
 # Essential Components
 
 ## [![](https://assets.epicsevendb.com/_source/face/c1016_l.png) **Best girl Yufine**](https://epicsevendb.com/hero/yufine)
 
 #### Even best girl needs gears if you want her to be an actual raid boss, the requirement is actually quite simple:
- - **A Counter set farmed from her nuking Banshee hunts or poverty gears from secret shop** ~~unless you galaxy bren with ML Rin and steal a counter buff somewhere~~
- - **Her unique EE with the 1st skill of "35% chance on using Double Slash to extend all buffs duration by 1 turn" (The Eff roll is irrelevant most of the time so don't fuss over it rolling anything less than 16%)**
+ - **A Counter set farmed from her nuking Banshee hunts or poverty gears from secret shop**
+ - **Her unique EE with the 1st skill of __"35% chance on using Double Slash to extend all buffs duration by 1 turn"__** (The Eff roll is irrelevant most of the time so don't fuss over it rolling anything less than 16%)
  - **Either make sure she has enough ER to resist all debuffs or you are sure her buffs aren't getting dispelled (Yes, you can resist dispels like all other debuffs)**
 
-In the context of this exclusively PvE guide, we will not touch on PvP Eff. So how much ER does your Yufine needs, well it depends on the situation, _generally_, and very generally, PvE mobs will have the same Eff as their ER. A safe spot to aim for is 
+#### Stat Requirement:
+In the context of this exclusively PvE guide, how much ER does your Yufine needs depends on the situation, _generally_, and very generally, PvE mobs will have the same Eff as their ER. A safe spot to aim for is 
 - 170-180% is actually recommended for Normal and Hell Raid bosses (Queen has 70% ER, the mini adds in Hell Kark is presumed to have 50% tho)
 - 150% for Hell Raid elites and Nixied Sanctum
 > **TL;DR: enemy ER + 100% is your desired ER number after all imprints and gears + artifact**
 
 Other desirable stats on your Raid boss include:
-- **LOW SPEED:** Like actually base speed, ideally you don't want to go above 140 speed generally and you want as low as possible to preserve your buffs and proc more counter to extend them (Don't buff speed, never use S2, even Kark fight, you can RNG counter to dispel his stealth which he will stops doing at a certain point and just spam Arky till he's dead, it takes a while but it's doable)
-- Attack
+- **LOW SPEED:** Like actually base speed, ideally you don't want to go above 140 speed generally and you want as low as possible to preserve your buffs and proc more counter to extend them (never use S2 and if SSA land on speed buff, just reset)
+- Attack: as much as possible
 - Crit (both chance and damage) -> you can go 30% crit chance and have crit buff + arky buff to get 100% crit chance
 
-#### Artifacts: This is straight forward enough, Strak a lot of the time to fill ER requisite, Uberius if you stack 100% crit chance and not running SSAcha, Sigurd only with SSAcha, no real reason to use anything else
-- [![](https://assets.epicsevendb.com/artifact/strak-gauntlet/icon.png)**Strak's Gauntlet**](https://epicsevendb.com/artifact/strak-gauntlet): well 30-60% ER cuts down your gear requirement greatly so people like this (doesn't work as well with SSAcha cause Immortality).
-- [![](https://assets.epicsevendb.com/artifact/sigurd-scythe/icon.png) **Sigurd Scythe**](https://epicsevendb.com/artifact/sigurd-scythe): This only works with SSAcha's immortality and its attack buff is addictive to morale so you would have +25% attack to counteract the -90% attack debuff of -50 morale. Work at even without enhancements
-- [![](https://assets.epicsevendb.com/artifact/uberiuss-tooth/icon.png)](https://epicsevendb.com/artifact/uberiuss-tooth) [![](https://assets.epicsevendb.com/artifact/junkyard-dog/icon.png)](https://epicsevendb.com/artifact/junkyard-dog) [![](https://assets.epicsevendb.com/_source/item_arti/icon_art0082.png)](https://epicsevendb.com/artifact/alencinoxs-wrath) [![](https://assets.epicsevendb.com/_source/item_arti/icon_art0070.png)](https://epicsevendb.com/artifact/draco-plate) [![](https://assets.epicsevendb.com/_source/item_arti/icon_art3_4.png)](https://epicsevendb.com/artifact/ancient-sheath) List of viable damage increasing artifacts from left to right: **Uberius Tooth, Junkyard Dog, Alencinox's Wrath, Draco Plate, Ancient Sheath**. Pick and choose what stat buff/damage increase artifact you want.
-- [![](https://assets.epicsevendb.com/artifact/els-fist/icon.png) **El's Fist**](https://epicsevendb.com/artifact/els-fist): Remember how the speed requirement is low speed? Then this just counteract that completely because speed buff from this is addictive to morale so you would be having 60% speed and not 10% at -50 morale therefore can't keep your buffs
+## Artifacts: 
+This is straight forward enough, Strak to fill ER requirement, Sigurd only with SSAcha, the rest are not as good but has their usage:
+- [![](https://assets.epicsevendb.com/artifact/strak-gauntlet/icon.png)**Strak's Gauntlet**](https://epicsevendb.com/artifact/strak-gauntlet): well 30-60% ER cuts down your gear requirement greatly so scuffed gears would like this (doesn't work as well with SSAcha cause Immortality).
+- [![](https://assets.epicsevendb.com/artifact/sigurd-scythe/icon.png) **Sigurd Scythe**](https://epicsevendb.com/artifact/sigurd-scythe): This only works with SSAcha's immortality and its attack buff is addictive to morale so you would have +25% attack to counteract the -90% attack debuff of -50 morale. Works even without enhancements.
+- [![](https://assets.epicsevendb.com/artifact/uberiuss-tooth/icon.png)](https://epicsevendb.com/artifact/uberiuss-tooth) [![](https://assets.epicsevendb.com/artifact/junkyard-dog/icon.png)](https://epicsevendb.com/artifact/junkyard-dog) [![](https://assets.epicsevendb.com/_source/item_arti/icon_art0082.png)](https://epicsevendb.com/artifact/alencinoxs-wrath) [![](https://assets.epicsevendb.com/_source/item_arti/icon_art0070.png)](https://epicsevendb.com/artifact/draco-plate) [![](https://assets.epicsevendb.com/_source/item_arti/icon_art3_4.png)](https://epicsevendb.com/artifact/ancient-sheath) List of viable damage increasing artifacts from left to right: **Uberius Tooth, Junkyard Dog, Alencinox's Wrath, Draco Plate, Ancient Sheath**. Pick and choose what stat buff/damage increase artifact you want. None are ideally but you take what you can get.
+- [![](https://assets.epicsevendb.com/artifact/els-fist/icon.png) **El's Fist**](https://epicsevendb.com/artifact/els-fist): Remember how the speed requirement is low speed? Then this just counteract that completely because speed buff from this is additive to morale so you would be having 60% speed and not 10% at -50 morale therefore can't keep your buffs via counters.
 
 <br/>
 
@@ -67,33 +66,31 @@ Other desirable stats on your Raid boss include:
 ### [![](https://assets.epicsevendb.com/_source/face/c2021_l.png) **Blaze Dingo**](https://epicsevendb.com/hero/blaze-dingo)**: Has attack buff**
 ### [![](https://assets.epicsevendb.com/_source/face/c1017_l.png) **Achates**](https://epicsevendb.com/hero/achates)
 ### [![](https://assets.epicsevendb.com/_source/face/c1022_l.png) **Ruele of Light**](https://epicsevendb.com/hero/ruele-of-light)
-### [![](https://assets.epicsevendb.com/_source/face/c2054_l.png) ~~Crescent Moon Rin~~](https://epicsevendb.com/hero/crescent-moon-rin): ~~Steal buffs but don't have innate Invincibility/Immortality~~ Sorry Rin, there's no dispellable Invincibility/Immortality in PvE that is relevant right now.
+### [![](https://assets.epicsevendb.com/_source/face/c2054_l.png) ~~Crescent Moon Rin~~](https://epicsevendb.com/hero/crescent-moon-rin): ~~Steal buffs but don't have innate Invincibility/Immortality~~ Sorry Rin, there's no dispellable Invincibility/Immortality in PvE that is relevant for this.
 
-#### **Important Note**: Imprints last even if the unit granting it dies so SSAcha and CArmin is very nice to lessen the gear requirement.
+### **Important Note**: Imprints last even if the unit granting it dies so SSAcha and CArmin is very nice to lessen the gear requirement.
 
 ---
 <br/>
 
 # Complementary/Essentials Components: 
-Ok now that your team has 2 units: Yufine and your buffer slave, what more do you want? Well more offensive buffs always help which I will seperate by order of usefulness as well as more imprints (except speed). Sadly all the other ER imprints are non-buffers so body drag time (I guess I should put a throwaway note listing them here: [Fallen Cecilia](https://epicsevendb.com/hero/fallen-cecilia), [Maid Chloe](https://epicsevendb.com/hero/maid-chloe), [Fighter Maya](https://epicsevendb.com/hero/fighter-maya), [Angelica](https://epicsevendb.com/hero/angelica), [Crozet](https://epicsevendb.com/hero/crozet)), [Troublemaker Crozet](https://epicsevendb.com/hero/troublemaker-crozet).
+Ok now that your team has 2 units: Yufine and your main buffer slave, what more do you want? Well more offensive buffs always help which I will seperate by order of usefulness as well as more imprints (except speed). Sadly all the other ER imprints are non-buffers and are irrelevant so you can ignore them all (maybe maid for atk buff).
 ### ![](https://assets.epicsevendb.com/_source/buff/stic_reflect.png)Reflect: (a.k.a Dominiel is 2nd best girl, it's canon now)
 #### [![](https://assets.epicsevendb.com/_source/face/c1037_l.png)Dominiel](https://epicsevendb.com/hero/dominiel): Remember me?
-> This buff reflect back 30% of the damage your raid boss (should) have taken after defense calculation back to the attacker ignoring their defense all the while (the damage reflected can't exceed your Yufine max HP so stacking hp is actually legit if it wasn't for the fact that you can't buff hp% to negate the morale so it's kinda wasted, but hey [free damage is still free damage](https://i.imgur.com/jgjOXuc.png)). Ok, let's be real, you aren't going to do consistent damage relying on 20% counter so this buff granted by Ice Dominiel is gonna be the most sure-fire way to get more damage. (It also allows her to solo Kark/ even without using S2 or unstuck herself on some mini-bosses)
-### ![](https://assets.epicsevendb.com/_source/buff/stic_counter.png)Counter: [~~ML Rin~~](https://epicsevendb.com/hero/crescent-moon-rin) ~~exclusive steal~~ RIP the 100% counter the dream 
-> This buff makes the buffed target has 100% counter chance upon being hit. It sounds so good, what's the catch? Well, you just have to search out a dispellable counter enemy, which isn't applicable where we want to run this comp (counter mini-boss buff is undispelable). The Swordmans/Knights mobs have an S2 that has it or find a buff stealing enemy (Golbin King) which are both not applicable where we want to farm (raids or lab). But hey, if someone does manage to find it, dm me and I'll include it ~~maybe in Nixied 4 and 5?~~
+> This buff reflect back 30% of the damage your raid boss (should) have taken after defense calculation back to the attacker ignoring their defense all the while (the damage reflected can't exceed your Yufine max HP so stacking hp is actually legit if it wasn't for the fact that you can't buff hp% to negate the morale so it's kinda wasted, but hey [free damage is still free damage](https://i.imgur.com/jgjOXuc.png)). Ok, let's be real, you aren't going to do consistent damage relying on 20% counter so this buff granted by Ice Dominiel is gonna be the most sure-fire way to get more damage. (It also allows her to solo Kark without using S2 or unstuck herself on some mini-bosses)
+### ![](https://assets.epicsevendb.com/_source/buff/stic_counter.png)Counter: [~~ML Rin~~](https://epicsevendb.com/hero/crescent-moon-rin) ~~exclusive steal~~ RIP the 100% counter the dream
+> This buff makes the buffed target has 100% counter chance upon being hit. It sounds so good, what's the catch? Well, you just have to search out a dispellable counter enemy, which isn't applicable where we want to run this comp (counter mini-boss buff is undispelable). The Swordmans/Knights mobs have an S2 that has it or find a buff stealing enemy (Golbin King) which are both not applicable where we want to farm (raids or lab).
 ### ![](https://assets.epicsevendb.com/_source/buff/stic_force_arka.png)Guardians Blessing: Colloquially known as Arky's buff (Essential in all comps)
-> Well this one is straight forward enough no? Practically a free 20% attack and crit chance buff, only downside is spending 30 soul (charges) using the literal best dps Guardian available: **Fluffly Arky**
+> Well this one is straight forward enough no? Practically a free 20% attack and crit chance buff, only downside is spending 30 soul (charges) using the literal best Guardian available: **Fluffly Arky**
 ### List of other Offensive buffs: ![](https://assets.epicsevendb.com/_source/buff/stic_cridmg_up.png) ![](https://assets.epicsevendb.com/_source/buff/stic_cri_up.png) ![](https://assets.epicsevendb.com/_source/buff/stic_att_up.png) ![](https://assets.epicsevendb.com/_source/buff/stic_att_up2.png) (A.k.a Green Rin is now MVP in this department)
-- ![](https://assets.epicsevendb.com/_source/buff/stic_cridmg_up.png) **Crit damage buff** (which buff crit damage by a flat 50%) is only granted by [Green Rin](https://epicsevendb.com/hero/rin) with her S3 to team on a RNG chance which means it can potentially land on some useless buffs that you don't want but she has the potential to grant all 3 of the offensive buffs that you want to your raid boss without risking an Increase Speed buff to boot so no worries there
-- ![](https://assets.epicsevendb.com/_source/buff/stic_cri_up.png) **Crit rate buff** (which buff crit chance by a flat 50%) is granted by a couple of people: [Furious](https://epicsevendb.com/hero/furious), [Tywin](https://epicsevendb.com/hero/tywin), [Challenger Dominiel](https://epicsevendb.com/hero/challenger-dominiel), [Elphelt](https://epicsevendb.com/hero/Elphelt) and the new and improved [Green Rin](https://epicsevendb.com/hero/rin) 
+- ![](https://assets.epicsevendb.com/_source/buff/stic_cridmg_up.png) **Crit damage buff** (which buff crit damage by a flat 50%) is granted by [Green Rin](https://epicsevendb.com/hero/rin) with her S3 to team on a RNG chance which means it can potentially land on some useless buffs that you don't want but she has the potential to grant all 3 of the offensive buffs that you want to your raid boss without risking an Increase Speed buff to boot. There's also [Flan](https://epicsevendb.com/hero/flan) who has this buff but reminder that this buff is shared with your crit damage % up to 350% still.
+- ![](https://assets.epicsevendb.com/_source/buff/stic_cri_up.png) **Crit rate buff** (which buff crit chance by a flat 50%) is granted by a couple of people: [Furious](https://epicsevendb.com/hero/furious), [Tywin](https://epicsevendb.com/hero/tywin), [Challenger Dominiel](https://epicsevendb.com/hero/challenger-dominiel), [Elphelt](https://epicsevendb.com/hero/Elphelt) and [Green Rin](https://epicsevendb.com/hero/rin) 
 - ![](https://assets.epicsevendb.com/_source/buff/stic_att_up2.png) **Greater attack buff** (which buff attack by 75% and overwrites normal Attack buff) granted by [Yuna](https://epicsevendb.com/hero/yuna) through her EE at a 30% chance (she needs to be 5 stars awakened and that makes her S2 buffs speed as well which is not ideal) and the newest optimal buffer for this, [Green Rin](https://epicsevendb.com/hero/rin) 
 - ![](https://assets.epicsevendb.com/_source/buff/stic_att_up.png) **Attack buff** (which buff attack by 50%) is one of the most accessible buff in the game, finding one shouldn't be that hard.
 
----
-<br/>
 
 # General Comp Details
-a.k.a TL;DR section: if you just skip to this point of the guide because learning all the buff details above is too long, that's fine. Basically your team should look something like this: Yufine + Immortality/Invulnerability buffer + Ice Dominiel + Atk buffer.
+TL;DR section: if you just skip to this point of the guide because learning all the buff details above is too long, that's fine. Basically your team should look something like this: Yufine + Immortality/Invulnerability buffer + Ice Dominiel + Atk buffer.
 
 <br/>
 
@@ -133,9 +130,9 @@ There's no ideal attack % buff, sometimes you might want more, sometimes you mig
 
 ---
 
-### Credit: Dimbreath#7619 for spreading the Yufine love, Okloio#0505 for theorycrafting, proofreading, screenshots providing and MOST IMPORTANTLY GIVING ME THE IDEA TO MAKE THIS GUIDE => BLAME OKLOIO IF SG "BUGFIX" THIS 
+### Credit: Dimbreath#7619 for spreading the Yufine love and images, Okloio#0505 for theorycrafting, proofreading, screenshots providing and MOST IMPORTANTLY GIVING ME THE IDEA TO MAKE THIS GUIDE => BLAME OKLOIO IF SG "BUGFIX" THIS 
 ### Made by a weeb ass Asian loli ~~e~~-girl: Meowrin (Moe#4063 on discord)
 
 ---
 
-# TL;DR: Yufine with A LOT of ER from artifacts, imprints, buffs (170% is safe) with a [invincibility/immortality buffer](Yufine%20Raid%20Boss%20Guide.md#primary-buffer-an-invincibleimmortal-buff) and complementary/essential buffers [(Ice Dominiel is bae)](Yufine%20Raid%20Boss%20Guide.md#reflect-aka-dominiel-is-2nd-best-girl-its-canon-now)
+## TL;DR: Yufine with A LOT of ER from artifacts, imprints, buffs (170% is safe) with a [invincibility/immortality buffer](Yufine%20Raid%20Boss%20Guide.md#primary-buffer-an-invincibleimmortal-buff) and complementary/essential buffers [(Ice Dominiel is bae)](Yufine%20Raid%20Boss%20Guide.md#reflect-aka-dominiel-is-2nd-best-girl-its-canon-now)
