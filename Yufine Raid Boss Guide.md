@@ -7,7 +7,7 @@
 - [General Comp Details](Yufine%20Raid%20Boss%20Guide.md#general-comp-details)
 
 # Intro
-Are you tired of spending weeks 100%-ing normal labs? Are you in a pinch for Ancient Coins for Accessories charms? Do you want to just do one run of normal Raid per week? If you do, you are insane. So for the insane people like me or Oklo [who spends 3 hours to farm 1k+ ancient coins in lab 3-2](https://cdn.discordapp.com/attachments/618249387822546975/627261082716602368/Screenshot_2019-09-27-14-33-43.png), I present to you a guide to raid boss **"best girl Yufine"** <sub> ~~- Dimbreath~~ </sub> . I'm also stupid for writing this guide. And tbh, you are right, SG will prolly ~~"bug fix" this like how they fucked over Sez as soon as 5 bosses Hell Raid hit, but until they do. **THIS IS A FEATURE**~~ never fix this cause they will never gonna touch PvE content balancing anyways
+Are you tired of spending weeks 100%-ing normal labs? Are you in a pinch for Ancient Coins for Accessories charms? Do you want to just do one run of normal Raid per week? If you do, you are insane. So for the insane people like me or Oklo [who spends 3 hours to farm 1k+ ancient coins in lab 3-2](https://cdn.discordapp.com/attachments/618249387822546975/627261082716602368/Screenshot_2019-09-27-14-33-43.png), I present to you a guide to raid boss **"best girl Yufine"** <sub> ~~- Dimbreath~~ </sub> . I'm also stupid for writing this guide. And tbh, you are right, SG will prolly never fix this cause they never touch PvE content balancing anyways. #Revert-Supporter-Morale.
 #### **_This is not a bug, an exploit or anything that game breaking, this is a perfectly intended game interaction by the devs. /s_** 
 
 <sub> Regretting skipping that Yufine banner now? ![](https://cdn.discordapp.com/attachments/559991088035921920/651969567291342849/SmugBucky.png) </sub>
@@ -60,7 +60,10 @@ This is straight forward enough, Strak to fill ER requirement, Sigurd only with 
 
 <br/>
 
-### [![](https://assets.epicsevendb.com/_source/face/c2017_l.png) **Shooting Star Achates**](https://epicsevendb.com/hero/shooting-star-achates)**: the only Immortality ![](https://assets.epicsevendb.com/_source/buff/stic_immortality.png) buffer in the game, initial buff last 3 turns requiring less RNG when starting. Also has ER imprints. The only downside is her random buffs includes: Increase Attack, Crit Chance, Defense, Evasion, Barrier, Continuous Heal, Immunity and the worst of all Increase Speed**
+### [![](https://assets.epicsevendb.com/_source/face/c2017_l.png) **Shooting Star Achates**](https://epicsevendb.com/hero/shooting-star-achates): the only Immortality ![](https://assets.epicsevendb.com/_source/buff/stic_immortality.png) buffer in the game. BiS for this strat.
+- Her initial Immortality buff last 3 turns requiring less RNG when starting. 
+- Has ER imprints. 
+- Her random buffs are: Increase Attack, Crit Chance, Defense, Evasion, Barrier, Continuous Heal, Immunity and the worst of all **Increase Speed** so you might want to reset if you hit the speed buff
 ### [![](https://assets.epicsevendb.com/_source/face/c1091_l.png) **Elena**](https://assets.epicsevendb.com/hero/elena)**: Has a 50% ER buff ![](https://assets.epicsevendb.com/_source/buff/stic_res_inc.png) in her kit that goes with a 1 turn invincibility buff**
 ### [![](https://assets.epicsevendb.com/_source/face/c2008_l.png) **Crimson Armin**](https://epicsevendb.com/hero/crimson-armin)**: Has ER Imprints**
 ### [![](https://assets.epicsevendb.com/_source/face/c2021_l.png) **Blaze Dingo**](https://epicsevendb.com/hero/blaze-dingo)**: Has attack buff**
