@@ -69,7 +69,7 @@ This is straight forward enough, Strak to fill ER requirement, Sigurd only with 
 ### [![](https://assets.epicsevendb.com/_source/face/c2021_l.png) **Blaze Dingo**](https://epicsevendb.com/hero/blaze-dingo)**: Has attack buff**
 ### [![](https://assets.epicsevendb.com/_source/face/c1017_l.png) **Achates**](https://epicsevendb.com/hero/achates)
 ### [![](https://assets.epicsevendb.com/_source/face/c1022_l.png) **Ruele of Light**](https://epicsevendb.com/hero/ruele-of-light)
-### [![](https://assets.epicsevendb.com/_source/face/c2054_l.png) ~~Crescent Moon Rin~~](https://epicsevendb.com/hero/crescent-moon-rin): ~~Steal buffs but don't have innate Invincibility/Immortality~~ Sorry Rin, there's no dispellable Invincibility/Immortality in PvE that is relevant for this.
+### [![](https://assets.epicsevendb.com/_source/face/c2054_l.png) ~~Crescent Moon Rin~~](https://epicsevendb.com/hero/crescent-moon-rin): ~~Steal buffs but don't have innate Invincibility/Immortality~~ Sorry Rin, there's no dispellable Invincibility/Immortality in PvE that is relevant for this. There is a counter buff to steal tho.
 
 ### **Important Note**: Imprints last even if the unit granting it dies so SSAcha and CArmin is very nice to lessen the gear requirement.
 
@@ -80,9 +80,9 @@ This is straight forward enough, Strak to fill ER requirement, Sigurd only with 
 Ok now that your team has 2 units: Yufine and your main buffer slave, what more do you want? Well more offensive buffs always help which I will seperate by order of usefulness as well as more imprints (except speed). Sadly all the other ER imprints are non-buffers and are irrelevant so you can ignore them all (maybe maid for atk buff).
 ### ![](https://assets.epicsevendb.com/_source/buff/stic_reflect.png)Reflect: (a.k.a Dominiel is 2nd best girl, it's canon now)
 #### [![](https://assets.epicsevendb.com/_source/face/c1037_l.png)Dominiel](https://epicsevendb.com/hero/dominiel): Remember me?
-> This buff reflect back 30% of the damage your raid boss (should) have taken after defense calculation back to the attacker ignoring their defense all the while (the damage reflected can't exceed your Yufine max HP so stacking hp is actually legit if it wasn't for the fact that you can't buff hp% to negate the morale so it's kinda wasted, but hey [free damage is still free damage](https://i.imgur.com/jgjOXuc.png)). Ok, let's be real, you aren't going to do consistent damage relying on 20% counter so this buff granted by Ice Dominiel is gonna be the most sure-fire way to get more damage. (It also allows her to solo Kark without using S2 or unstuck herself on some mini-bosses)
-### ![](https://assets.epicsevendb.com/_source/buff/stic_counter.png)Counter: [~~ML Rin~~](https://epicsevendb.com/hero/crescent-moon-rin) ~~exclusive steal~~ RIP the 100% counter the dream
-> This buff makes the buffed target has 100% counter chance upon being hit. It sounds so good, what's the catch? Well, you just have to search out a dispellable counter enemy, which isn't applicable where we want to run this comp (counter mini-boss buff is undispelable). The Swordmans/Knights mobs have an S2 that has it or find a buff stealing enemy (Golbin King) which are both not applicable where we want to farm (raids or lab).
+> This buff reflect back 30% of the damage your raid boss (should) have taken after defense calculation back to the attacker ignoring their defense all the while (the damage reflected can't exceed your Yufine max HP so stacking hp is actually legit if it wasn't for the fact that you can't buff hp% to negate the morale so it's kinda wasted, but hey [free damage is still free damage](https://i.imgur.com/jgjOXuc.png)). Ok, let's be real, you aren't going to do consistent damage relying on 20% counter so this buff granted by Ice Dominiel is gonna be the most sure-fire way to get more damage. (It also allows her to potentially solo Kark without using S2 need a lot of RNG counter or unstuck herself on some mini-bosses)
+### ![](https://assets.epicsevendb.com/_source/buff/stic_counter.png)Counter: [ML Rin](https://epicsevendb.com/hero/crescent-moon-rin) exclusive steal (Actually viable now)
+> This buff makes the buffed target has 100% counter chance upon being hit. It sounds so good, what's the catch? Well, you just have to search out a dispellable counter enemy, which surprise surprise, **Frost Caides in Nixed 5** can be stolen (normal counter mini-boss buff is undispelable). Which means we now have the newest place to farm Ancient Coins: Nixied 5. 
 ### ![](https://assets.epicsevendb.com/_source/buff/stic_force_arka.png)Guardians Blessing: Colloquially known as Arky's buff (Essential in all comps)
 > Well this one is straight forward enough no? Practically a free 20% attack and crit chance buff, only downside is spending 30 soul (charges) using the literal best Guardian available: **Fluffly Arky**
 ### List of other Offensive buffs: ![](https://assets.epicsevendb.com/_source/buff/stic_cridmg_up.png) ![](https://assets.epicsevendb.com/_source/buff/stic_cri_up.png) ![](https://assets.epicsevendb.com/_source/buff/stic_att_up.png) ![](https://assets.epicsevendb.com/_source/buff/stic_att_up2.png) (A.k.a Green Rin is now MVP in this department)
@@ -119,7 +119,7 @@ Well as the name suggest, you just need the bare basic here, 150% ER or at most 
 > - Can kill life steal/shield mini-boss road block more consistently
 ### Cons:
 > - Requires some RNG/damage tuning to keep buffs up and not to finish fights too fast
-> - Higher gear requirement  
+> - Higher gear requirement 
 
 
 This is the cookie cutter, most commonly used comp to farm ancient coins/gold from normal labs. This is where SSAcha shines as the best Primary buffer with her synergy with Sigurd Scythe buffing 25% attack on Yufine. Best used buffers are Green Rin (bless RNG for crits and greater attack, best part is she doesn't buff speed), Blaze Dingo (Invul + Attack), and Tywin (Attack + Crit chance). The core of this comp is buffing with **Arky buff**, (Greater) Attack buff and with SSAcha, Sigurd Scythe to counteract the morale debuff giving your Yufine her damage back. the math is as followed:
@@ -131,10 +131,14 @@ There's no ideal attack % buff, sometimes you might want more, sometimes you mig
 
 <br/>
 
+### A specific section reserved for ML Rin niche: Only works on Nixied 5 - Frostproof Valley
+This part is new since someone discovered a strip-able counter buff from the **Frost Caides mini boss**. You can now end your fight with the buffs and teleport between portals or run some empty corridor for -50 morale. And then extend away on a hard boss fight (Elisia is a good option since her spawn is fixed). Concept is the same but requires SSA since only her immortality buff last 3 turns. Since you are countering so much, sustaining buffs is not a problem, what is a problem is killing road blockers which might requires the usage of manual with SB S3 for stuns/stripping shields. Of course there are hard blockers such as the Frost Silva which has 2 spawn location  one is the square area leading to Aquina, one is in the area to the east that contains a barrier crystal with a shroom boss) which you need to scout out 1st but as long as you leave them up, they will not spawn again anywhere else.
+
+
 ---
 
 ### Credit: Dimbreath#7619 for spreading the Yufine love and images, Okloio#0505 for theorycrafting, proofreading, screenshots providing and MOST IMPORTANTLY GIVING ME THE IDEA TO MAKE THIS GUIDE => BLAME OKLOIO IF SG "BUGFIX" THIS 
-### Made by a weeb ass Asian loli ~~e~~-girl: Meowrin (Moe#4063 on discord)
+### Made by a weeb ass Asian loli ~~e~~-girl: Meowrin (Moe#4063 on discord, u/RainbowFrostedMuffin on reddit but I don't check reddit much)
 
 ---
 
