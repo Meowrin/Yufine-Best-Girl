@@ -132,12 +132,15 @@ There's no ideal attack % buff, sometimes you might want more, sometimes you mig
 <br/>
 
 ### A specific section reserved for ML Rin niche: Only works on Nixied 5 - Frostproof Valley
-This part is new since someone discovered a strip-able counter buff from the **Frost Caides mini boss**. You can now end your fight with the buffs and teleport between portals or run some empty corridor for -50 morale. And then extend away on a hard boss fight (Elisia is a good option since her spawn is fixed). Concept is the same but requires SSA since only her immortality buff last 3 turns. Since you are countering so much, sustaining buffs is not a problem, what is a problem is killing road blockers which might requires the usage of manual with SB S3 for stuns/stripping shields. Of course there are hard blockers such as the Frost Silva which has 2 spawn location  one is the square area leading to Aquina, one is in the area to the east that contains a barrier crystal with a shroom boss) which you need to scout out 1st but as long as you leave them up, they will not spawn again anywhere else.
-
+This part is new since someone discovered a strip-able counter buff from the **Frost Caides mini boss** (There is a Lich that steal buffs but I'd advise to not bother). You can now end your fight with the buffs and teleport between portals or run some empty corridor for -50 morale. And then extend away on a hard boss fight (Elisia is a good option since her spawn is fixed). Concept is the same but requires SSA since only her immortality buff last 3 turns. Since you are countering so much, sustaining buffs is not a problem, what is a problem is killing road blockers which might requires the usage of manual with SB S3 for stuns/stripping shields. Of course there are hard blockers such as the Frost Silva which has 2 spawn location: one is the square area leading to Aquina, one is in the area to the east that contains a barrier crystal with a shroom boss) which you need to scout out 1st but as long as you leave them up, they will not spawn again anywhere else.
 
 ---
 
-### Credit: Dimbreath#7619 for spreading the Yufine love and images, Okloio#0505 for theorycrafting, proofreading, screenshots providing and MOST IMPORTANTLY GIVING ME THE IDEA TO MAKE THIS GUIDE => BLAME OKLOIO IF SG "BUGFIX" THIS 
+### Credit: 
+- Dimbreath#7619 for spreading the Yufine love and images
+- Okloio#0505 for theorycrafting, proofreading, screenshots providing and MOST IMPORTANTLY GIVING ME THE IDEA TO MAKE THIS GUIDE => BLAME OKLOIO IF SG "BUGFIX" THIS 
+- u/Interceptor402 for the discovery of Nixied 5 ML Rin strat, he made a more detailed guide about it [here] (https://www.reddit.com/r/EpicSeven/comments/knqxnr/raid_boss_yufine_vs_nixied_5_for_people_who_like/)
+
 ### Made by a weeb ass Asian loli ~~e~~-girl: Meowrin (Moe#4063 on discord, u/RainbowFrostedMuffin on reddit but I don't check reddit much)
 
 ---
